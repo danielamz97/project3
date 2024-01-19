@@ -1,0 +1,2592 @@
+[{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eab5"
+  },
+  "": 0,
+  "unidad": "Administración",
+  "partida": "Gasolina funcionarios",
+  "monto_concepto": 32093.0998828
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eab6"
+  },
+  "": 1,
+  "unidad": "Administración",
+  "partida": "Gasolina resto de personal",
+  "monto_concepto": 364170.1696494
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eab7"
+  },
+  "": 2,
+  "unidad": "Administración",
+  "partida": "Pasajes aéreos funcionarios ",
+  "monto_concepto": 164693.570068
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eab8"
+  },
+  "": 3,
+  "unidad": "Administración",
+  "partida": "Pasajes aéreos resto de personal",
+  "monto_concepto": 831400.000731
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eab9"
+  },
+  "": 4,
+  "unidad": "Administración",
+  "partida": "Pasajes terrestres funcionarios",
+  "monto_concepto": 48219.40005218
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eaba"
+  },
+  "": 5,
+  "unidad": "Administración",
+  "partida": "Pasajes terrestres resto de personal",
+  "monto_concepto": 623373.64811238
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eabb"
+  },
+  "": 6,
+  "unidad": "Administración",
+  "partida": "Renta de autos",
+  "monto_concepto": 8944.279907
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eabc"
+  },
+  "": 7,
+  "unidad": "Administración",
+  "partida": "Resico",
+  "monto_concepto": -81.05000054
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eabd"
+  },
+  "": 8,
+  "unidad": "Administración",
+  "partida": "Viáticos funcionario",
+  "monto_concepto": 160976.74937947
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eabe"
+  },
+  "": 9,
+  "unidad": "Administración",
+  "partida": "Viáticos resto de personal",
+  "monto_concepto": 1196770.31938492
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eabf"
+  },
+  "": 10,
+  "unidad": "Atención corporativa",
+  "partida": "Gasolina funcionarios",
+  "monto_concepto": 13621.569885
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eac0"
+  },
+  "": 11,
+  "unidad": "Atención corporativa",
+  "partida": "Gasolina resto de personal",
+  "monto_concepto": 71000.070282
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eac1"
+  },
+  "": 12,
+  "unidad": "Atención corporativa",
+  "partida": "Pasajes aéreos funcionarios ",
+  "monto_concepto": 61317.520019999996
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eac2"
+  },
+  "": 13,
+  "unidad": "Atención corporativa",
+  "partida": "Pasajes aéreos resto de personal",
+  "monto_concepto": 107067.14941499999
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eac3"
+  },
+  "": 14,
+  "unidad": "Atención corporativa",
+  "partida": "Pasajes terrestres funcionarios",
+  "monto_concepto": 19778.0199582
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eac4"
+  },
+  "": 15,
+  "unidad": "Atención corporativa",
+  "partida": "Pasajes terrestres resto de personal",
+  "monto_concepto": 98721.2194347
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eac5"
+  },
+  "": 16,
+  "unidad": "Atención corporativa",
+  "partida": "Resico",
+  "monto_concepto": -31.48999906
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eac6"
+  },
+  "": 17,
+  "unidad": "Atención corporativa",
+  "partida": "Viáticos funcionario",
+  "monto_concepto": 99236.08954656
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eac7"
+  },
+  "": 18,
+  "unidad": "Atención corporativa",
+  "partida": "Viáticos resto de personal",
+  "monto_concepto": 242041.71005134
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eac8"
+  },
+  "": 19,
+  "unidad": "Auditoría",
+  "partida": "Gasolina funcionarios",
+  "monto_concepto": 1231.7800293
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eac9"
+  },
+  "": 20,
+  "unidad": "Auditoría",
+  "partida": "Pasajes terrestres funcionarios",
+  "monto_concepto": 3685.01001
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eaca"
+  },
+  "": 21,
+  "unidad": "Auditoría",
+  "partida": "Pasajes terrestres resto de personal",
+  "monto_concepto": 1820
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eacb"
+  },
+  "": 22,
+  "unidad": "Auditoría",
+  "partida": "Viáticos funcionario",
+  "monto_concepto": 20177.2903437
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eacc"
+  },
+  "": 23,
+  "unidad": "Auditoría",
+  "partida": "Viáticos resto de personal",
+  "monto_concepto": 2290.0100401
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eacd"
+  },
+  "": 24,
+  "unidad": "Auditoría interna",
+  "partida": "Gasolina funcionarios",
+  "monto_concepto": 12851.6599724
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eace"
+  },
+  "": 25,
+  "unidad": "Auditoría interna",
+  "partida": "Gasolina resto de personal",
+  "monto_concepto": 21311.529907
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eacf"
+  },
+  "": 26,
+  "unidad": "Auditoría interna",
+  "partida": "Pasajes aéreos funcionarios ",
+  "monto_concepto": 33420
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2ead0"
+  },
+  "": 27,
+  "unidad": "Auditoría interna",
+  "partida": "Pasajes aéreos resto de personal",
+  "monto_concepto": 109450
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2ead1"
+  },
+  "": 28,
+  "unidad": "Auditoría interna",
+  "partida": "Pasajes terrestres funcionarios",
+  "monto_concepto": 15143.7800904
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2ead2"
+  },
+  "": 29,
+  "unidad": "Auditoría interna",
+  "partida": "Pasajes terrestres resto de personal",
+  "monto_concepto": 55028.9599609
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2ead3"
+  },
+  "": 30,
+  "unidad": "Auditoría interna",
+  "partida": "Resico",
+  "monto_concepto": -69.11999845
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2ead4"
+  },
+  "": 31,
+  "unidad": "Auditoría interna",
+  "partida": "Viáticos funcionario",
+  "monto_concepto": 42874.51966797
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2ead5"
+  },
+  "": 32,
+  "unidad": "Auditoría interna",
+  "partida": "Viáticos resto de personal",
+  "monto_concepto": 174009.59905697
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2ead6"
+  },
+  "": 33,
+  "unidad": "Control",
+  "partida": "Gasolina funcionarios",
+  "monto_concepto": 5404.060058
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2ead7"
+  },
+  "": 34,
+  "unidad": "Control",
+  "partida": "Pasajes aéreos resto de personal",
+  "monto_concepto": 50904
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2ead8"
+  },
+  "": 35,
+  "unidad": "Control",
+  "partida": "Pasajes terrestres funcionarios",
+  "monto_concepto": 5101.0500489999995
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2ead9"
+  },
+  "": 36,
+  "unidad": "Control",
+  "partida": "Pasajes terrestres resto de personal",
+  "monto_concepto": 5797.1399534
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eada"
+  },
+  "": 37,
+  "unidad": "Control",
+  "partida": "Viáticos funcionario",
+  "monto_concepto": 12778.98022089
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eadb"
+  },
+  "": 38,
+  "unidad": "Control",
+  "partida": "Viáticos resto de personal",
+  "monto_concepto": 28622.2199254
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eadc"
+  },
+  "": 39,
+  "unidad": "Crédito",
+  "partida": "Gasolina funcionarios",
+  "monto_concepto": 6235.1999211
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eadd"
+  },
+  "": 40,
+  "unidad": "Crédito",
+  "partida": "Gasolina resto de personal",
+  "monto_concepto": 7798.3800049
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eade"
+  },
+  "": 41,
+  "unidad": "Crédito",
+  "partida": "Pasajes aéreos funcionarios ",
+  "monto_concepto": 63391.4004
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eadf"
+  },
+  "": 42,
+  "unidad": "Crédito",
+  "partida": "Pasajes aéreos resto de personal",
+  "monto_concepto": 27497.879883
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eae0"
+  },
+  "": 43,
+  "unidad": "Crédito",
+  "partida": "Pasajes terrestres funcionarios",
+  "monto_concepto": 7484
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eae1"
+  },
+  "": 44,
+  "unidad": "Crédito",
+  "partida": "Pasajes terrestres resto de personal",
+  "monto_concepto": 11096.5599976
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eae2"
+  },
+  "": 45,
+  "unidad": "Crédito",
+  "partida": "Viáticos funcionario",
+  "monto_concepto": 132819.94980646
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eae3"
+  },
+  "": 46,
+  "unidad": "Crédito",
+  "partida": "Viáticos resto de personal",
+  "monto_concepto": 97819.95860443
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eae4"
+  },
+  "": 47,
+  "unidad": "Desarrollo y gestión",
+  "partida": "Gasolina funcionarios",
+  "monto_concepto": 937.1599731
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eae5"
+  },
+  "": 48,
+  "unidad": "Desarrollo y gestión",
+  "partida": "Gasolina resto de personal",
+  "monto_concepto": 2983.3499757
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eae6"
+  },
+  "": 49,
+  "unidad": "Desarrollo y gestión",
+  "partida": "Pasajes aéreos resto de personal",
+  "monto_concepto": 11910
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eae7"
+  },
+  "": 50,
+  "unidad": "Desarrollo y gestión",
+  "partida": "Pasajes terrestres resto de personal",
+  "monto_concepto": 6169.1699829
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eae8"
+  },
+  "": 51,
+  "unidad": "Desarrollo y gestión",
+  "partida": "Viáticos funcionario",
+  "monto_concepto": 3027.5101014
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eae9"
+  },
+  "": 52,
+  "unidad": "Desarrollo y gestión",
+  "partida": "Viáticos resto de personal",
+  "monto_concepto": 9802.380089389999
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eaea"
+  },
+  "": 53,
+  "unidad": "Dirección administración",
+  "partida": "Pasajes aéreos resto de personal",
+  "monto_concepto": 7250
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eaeb"
+  },
+  "": 54,
+  "unidad": "Dirección administración",
+  "partida": "Pasajes terrestres resto de personal",
+  "monto_concepto": 1630
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eaec"
+  },
+  "": 55,
+  "unidad": "Dirección administración",
+  "partida": "Viáticos funcionario",
+  "monto_concepto": 1399.00000766
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eaed"
+  },
+  "": 56,
+  "unidad": "Dirección administración",
+  "partida": "Viáticos resto de personal",
+  "monto_concepto": 5892.8499756
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eaee"
+  },
+  "": 57,
+  "unidad": "Dirección de crédito",
+  "partida": "Gasolina funcionarios",
+  "monto_concepto": 3377.010132
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eaef"
+  },
+  "": 58,
+  "unidad": "Dirección de crédito",
+  "partida": "Pasajes aéreos funcionarios ",
+  "monto_concepto": 29358.280152
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eaf0"
+  },
+  "": 59,
+  "unidad": "Dirección de crédito",
+  "partida": "Pasajes terrestres funcionarios",
+  "monto_concepto": 395
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eaf1"
+  },
+  "": 60,
+  "unidad": "Dirección de crédito",
+  "partida": "Pasajes terrestres resto de personal",
+  "monto_concepto": 1788.800049
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eaf2"
+  },
+  "": 61,
+  "unidad": "Dirección de crédito",
+  "partida": "Viáticos funcionario",
+  "monto_concepto": 64170.61027435
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eaf3"
+  },
+  "": 62,
+  "unidad": "Dirección de crédito",
+  "partida": "Viáticos resto de personal",
+  "monto_concepto": 8760.4901117
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eaf4"
+  },
+  "": 63,
+  "unidad": "Dirección de finanzas",
+  "partida": "Gasolina funcionarios",
+  "monto_concepto": 9164.370116
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eaf5"
+  },
+  "": 64,
+  "unidad": "Dirección de finanzas",
+  "partida": "Pasajes terrestres funcionarios",
+  "monto_concepto": 6335.999755000001
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eaf6"
+  },
+  "": 65,
+  "unidad": "Dirección de finanzas",
+  "partida": "Pasajes terrestres resto de personal",
+  "monto_concepto": 1251.699951
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eaf7"
+  },
+  "": 66,
+  "unidad": "Dirección de finanzas",
+  "partida": "Viáticos funcionario",
+  "monto_concepto": 20726.4998483
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eaf8"
+  },
+  "": 67,
+  "unidad": "Dirección de finanzas",
+  "partida": "Viáticos resto de personal",
+  "monto_concepto": 6024.9999391
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eaf9"
+  },
+  "": 68,
+  "unidad": "Dirección de inteligencia",
+  "partida": "Pasajes aéreos resto de personal",
+  "monto_concepto": 9291
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eafa"
+  },
+  "": 69,
+  "unidad": "Dirección de inteligencia",
+  "partida": "Pasajes terrestres resto de personal",
+  "monto_concepto": 1200
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eafb"
+  },
+  "": 70,
+  "unidad": "Dirección de inteligencia",
+  "partida": "Viáticos funcionario",
+  "monto_concepto": 14674.4700634
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eafc"
+  },
+  "": 71,
+  "unidad": "Dirección de inteligencia",
+  "partida": "Viáticos resto de personal",
+  "monto_concepto": 6024.9999391
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eafd"
+  },
+  "": 72,
+  "unidad": "Dirección de negocios",
+  "partida": "Gasolina funcionarios",
+  "monto_concepto": 6956.209839
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eafe"
+  },
+  "": 73,
+  "unidad": "Dirección de negocios",
+  "partida": "Gasolina resto de personal",
+  "monto_concepto": 1840.300049
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eaff"
+  },
+  "": 74,
+  "unidad": "Dirección de negocios",
+  "partida": "Pasajes aéreos funcionarios ",
+  "monto_concepto": 114643.69994600001
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb00"
+  },
+  "": 75,
+  "unidad": "Dirección de negocios",
+  "partida": "Pasajes terrestres funcionarios",
+  "monto_concepto": 11039.469848
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb01"
+  },
+  "": 76,
+  "unidad": "Dirección de negocios",
+  "partida": "Pasajes terrestres resto de personal",
+  "monto_concepto": 2448.599976
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb02"
+  },
+  "": 77,
+  "unidad": "Dirección de negocios",
+  "partida": "Viáticos funcionario",
+  "monto_concepto": 135405.12972888
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb03"
+  },
+  "": 78,
+  "unidad": "Dirección de negocios",
+  "partida": "Viáticos resto de personal",
+  "monto_concepto": 6024.9999391
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb04"
+  },
+  "": 79,
+  "unidad": "Dirección de operaciones",
+  "partida": "Viáticos resto de personal",
+  "monto_concepto": 6024.9999391
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb05"
+  },
+  "": 80,
+  "unidad": "Dirección de regionales",
+  "partida": "Pasajes aéreos funcionarios ",
+  "monto_concepto": 228564.699951
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb06"
+  },
+  "": 81,
+  "unidad": "Dirección de regionales",
+  "partida": "Pasajes terrestres funcionarios",
+  "monto_concepto": 8912
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb07"
+  },
+  "": 82,
+  "unidad": "Dirección de regionales",
+  "partida": "Pasajes terrestres resto de personal",
+  "monto_concepto": 2066.699951
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb08"
+  },
+  "": 83,
+  "unidad": "Dirección de regionales",
+  "partida": "Viáticos funcionario",
+  "monto_concepto": 154142.1595902
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb09"
+  },
+  "": 84,
+  "unidad": "Dirección de regionales",
+  "partida": "Viáticos resto de personal",
+  "monto_concepto": 6548.8402101
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb0a"
+  },
+  "": 85,
+  "unidad": "Dirección de órgano interno",
+  "partida": "Gasolina funcionarios",
+  "monto_concepto": 1966.6400146
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb0b"
+  },
+  "": 86,
+  "unidad": "Dirección de órgano interno",
+  "partida": "Gasolina resto de personal",
+  "monto_concepto": 6800.3900139
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb0c"
+  },
+  "": 87,
+  "unidad": "Dirección de órgano interno",
+  "partida": "Pasajes aéreos resto de personal",
+  "monto_concepto": 6140
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb0d"
+  },
+  "": 88,
+  "unidad": "Dirección de órgano interno",
+  "partida": "Pasajes terrestres funcionarios",
+  "monto_concepto": 1933.9599915
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb0e"
+  },
+  "": 89,
+  "unidad": "Dirección de órgano interno",
+  "partida": "Pasajes terrestres resto de personal",
+  "monto_concepto": 11215.9899902
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb0f"
+  },
+  "": 90,
+  "unidad": "Dirección de órgano interno",
+  "partida": "Viáticos funcionario",
+  "monto_concepto": 46604.36069513
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb10"
+  },
+  "": 91,
+  "unidad": "Dirección de órgano interno",
+  "partida": "Viáticos resto de personal",
+  "monto_concepto": 30624.67977034
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb11"
+  },
+  "": 92,
+  "unidad": "Dirección general",
+  "partida": "Gasolina resto de personal",
+  "monto_concepto": 976.8299865
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb12"
+  },
+  "": 93,
+  "unidad": "Dirección general",
+  "partida": "Pasajes aéreos funcionarios ",
+  "monto_concepto": 265806
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb13"
+  },
+  "": 94,
+  "unidad": "Dirección general",
+  "partida": "Pasajes aéreos resto de personal",
+  "monto_concepto": 6140
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb14"
+  },
+  "": 95,
+  "unidad": "Dirección general",
+  "partida": "Pasajes terrestres resto de personal",
+  "monto_concepto": 9422.5200198
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb15"
+  },
+  "": 96,
+  "unidad": "Dirección general",
+  "partida": "Viáticos funcionario",
+  "monto_concepto": 62180.6903362
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb16"
+  },
+  "": 97,
+  "unidad": "Dirección general",
+  "partida": "Viáticos resto de personal",
+  "monto_concepto": 24714.5997313
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb17"
+  },
+  "": 98,
+  "unidad": "Estrategia",
+  "partida": "Gasolina funcionarios",
+  "monto_concepto": 21515.599792600002
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb18"
+  },
+  "": 99,
+  "unidad": "Estrategia",
+  "partida": "Gasolina resto de personal",
+  "monto_concepto": 288511.61024645
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb19"
+  },
+  "": 100,
+  "unidad": "Estrategia",
+  "partida": "Pasajes aéreos funcionarios ",
+  "monto_concepto": 20682
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb1a"
+  },
+  "": 101,
+  "unidad": "Estrategia",
+  "partida": "Pasajes aéreos resto de personal",
+  "monto_concepto": 152610.469972
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb1b"
+  },
+  "": 102,
+  "unidad": "Estrategia",
+  "partida": "Pasajes terrestres funcionarios",
+  "monto_concepto": 16572.449982
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb1c"
+  },
+  "": 103,
+  "unidad": "Estrategia",
+  "partida": "Pasajes terrestres resto de personal",
+  "monto_concepto": 97051.65995956
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb1d"
+  },
+  "": 104,
+  "unidad": "Estrategia",
+  "partida": "Resico",
+  "monto_concepto": -347.52999564
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb1e"
+  },
+  "": 105,
+  "unidad": "Estrategia",
+  "partida": "Viáticos funcionario",
+  "monto_concepto": 62459.3900915
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb1f"
+  },
+  "": 106,
+  "unidad": "Estrategia",
+  "partida": "Viáticos resto de personal",
+  "monto_concepto": 805200.28121106
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb20"
+  },
+  "": 107,
+  "unidad": "Evaluación sectorial",
+  "partida": "Gasolina funcionarios",
+  "monto_concepto": 9824.230133000001
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb21"
+  },
+  "": 108,
+  "unidad": "Evaluación sectorial",
+  "partida": "Gasolina resto de personal",
+  "monto_concepto": 2776.47998
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb22"
+  },
+  "": 109,
+  "unidad": "Evaluación sectorial",
+  "partida": "Pasajes aéreos funcionarios ",
+  "monto_concepto": 17992
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb23"
+  },
+  "": 110,
+  "unidad": "Evaluación sectorial",
+  "partida": "Pasajes terrestres funcionarios",
+  "monto_concepto": 12196.8599853
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb24"
+  },
+  "": 111,
+  "unidad": "Evaluación sectorial",
+  "partida": "Pasajes terrestres resto de personal",
+  "monto_concepto": 6190.4899292
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb25"
+  },
+  "": 112,
+  "unidad": "Evaluación sectorial",
+  "partida": "Viáticos funcionario",
+  "monto_concepto": 37784.3000799
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb26"
+  },
+  "": 113,
+  "unidad": "Evaluación sectorial",
+  "partida": "Viáticos resto de personal",
+  "monto_concepto": 18673.36004708
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb27"
+  },
+  "": 114,
+  "unidad": "Intemediarios financieros",
+  "partida": "Gasolina funcionarios",
+  "monto_concepto": 2623.829987
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb28"
+  },
+  "": 115,
+  "unidad": "Intemediarios financieros",
+  "partida": "Gasolina resto de personal",
+  "monto_concepto": 2084.7000118
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb29"
+  },
+  "": 116,
+  "unidad": "Intemediarios financieros",
+  "partida": "Pasajes aéreos resto de personal",
+  "monto_concepto": 23408
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb2a"
+  },
+  "": 117,
+  "unidad": "Intemediarios financieros",
+  "partida": "Pasajes terrestres funcionarios",
+  "monto_concepto": 2149
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb2b"
+  },
+  "": 118,
+  "unidad": "Intemediarios financieros",
+  "partida": "Pasajes terrestres resto de personal",
+  "monto_concepto": 3281.699951
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb2c"
+  },
+  "": 119,
+  "unidad": "Intemediarios financieros",
+  "partida": "Viáticos funcionario",
+  "monto_concepto": 31088.06006663
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb2d"
+  },
+  "": 120,
+  "unidad": "Intemediarios financieros",
+  "partida": "Viáticos resto de personal",
+  "monto_concepto": 61084.6797458
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb2e"
+  },
+  "": 121,
+  "unidad": "Medio ambiente",
+  "partida": "Gasolina funcionarios",
+  "monto_concepto": 25170.9297464
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb2f"
+  },
+  "": 122,
+  "unidad": "Medio ambiente",
+  "partida": "Gasolina resto de personal",
+  "monto_concepto": 3990.6800236999998
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb30"
+  },
+  "": 123,
+  "unidad": "Medio ambiente",
+  "partida": "Pasajes aéreos resto de personal",
+  "monto_concepto": 58484.9099731
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb31"
+  },
+  "": 124,
+  "unidad": "Medio ambiente",
+  "partida": "Pasajes terrestres funcionarios",
+  "monto_concepto": 31346.06012737
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb32"
+  },
+  "": 125,
+  "unidad": "Medio ambiente",
+  "partida": "Pasajes terrestres resto de personal",
+  "monto_concepto": 22308.94007123
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb33"
+  },
+  "": 126,
+  "unidad": "Medio ambiente",
+  "partida": "Resico",
+  "monto_concepto": -1.24000001
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb34"
+  },
+  "": 127,
+  "unidad": "Medio ambiente",
+  "partida": "Viáticos funcionario",
+  "monto_concepto": 62150.16916839
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb35"
+  },
+  "": 128,
+  "unidad": "Medio ambiente",
+  "partida": "Viáticos resto de personal",
+  "monto_concepto": 66451.22051233001
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb36"
+  },
+  "": 129,
+  "unidad": "Monitoreo",
+  "partida": "Gasolina funcionarios",
+  "monto_concepto": 14180.220124
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb37"
+  },
+  "": 130,
+  "unidad": "Monitoreo",
+  "partida": "Gasolina resto de personal",
+  "monto_concepto": 206696.6211569
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb38"
+  },
+  "": 131,
+  "unidad": "Monitoreo",
+  "partida": "Pasajes aéreos funcionarios ",
+  "monto_concepto": 13077
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb39"
+  },
+  "": 132,
+  "unidad": "Monitoreo",
+  "partida": "Pasajes aéreos resto de personal",
+  "monto_concepto": 239085.449951
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb3a"
+  },
+  "": 133,
+  "unidad": "Monitoreo",
+  "partida": "Pasajes terrestres funcionarios",
+  "monto_concepto": 13205.690018199999
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb3b"
+  },
+  "": 134,
+  "unidad": "Monitoreo",
+  "partida": "Pasajes terrestres resto de personal",
+  "monto_concepto": 172108.52992682
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb3c"
+  },
+  "": 135,
+  "unidad": "Monitoreo",
+  "partida": "Renta de autos",
+  "monto_concepto": 2339.659912
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb3d"
+  },
+  "": 136,
+  "unidad": "Monitoreo",
+  "partida": "Resico",
+  "monto_concepto": -236.74999402
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb3e"
+  },
+  "": 137,
+  "unidad": "Monitoreo",
+  "partida": "Viáticos funcionario",
+  "monto_concepto": 158775.73030052
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb3f"
+  },
+  "": 138,
+  "unidad": "Monitoreo",
+  "partida": "Viáticos resto de personal",
+  "monto_concepto": 1142801.72611907
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb40"
+  },
+  "": 139,
+  "unidad": "Noroeste",
+  "partida": "Gasolina funcionarios",
+  "monto_concepto": 17621.589752
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb41"
+  },
+  "": 140,
+  "unidad": "Noroeste",
+  "partida": "Gasolina resto de personal",
+  "monto_concepto": 681458.17934148
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb42"
+  },
+  "": 141,
+  "unidad": "Noroeste",
+  "partida": "Pasajes aéreos funcionarios ",
+  "monto_concepto": 115394.92920099999
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb43"
+  },
+  "": 142,
+  "unidad": "Noroeste",
+  "partida": "Pasajes aéreos resto de personal",
+  "monto_concepto": 590374.038334
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb44"
+  },
+  "": 143,
+  "unidad": "Noroeste",
+  "partida": "Pasajes terrestres funcionarios",
+  "monto_concepto": 7289.8099976
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb45"
+  },
+  "": 144,
+  "unidad": "Noroeste",
+  "partida": "Pasajes terrestres resto de personal",
+  "monto_concepto": 158645.54989629
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb46"
+  },
+  "": 145,
+  "unidad": "Noroeste",
+  "partida": "Resico",
+  "monto_concepto": -370.17999934
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb47"
+  },
+  "": 146,
+  "unidad": "Noroeste",
+  "partida": "Viáticos funcionario",
+  "monto_concepto": 187722.34974484
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb48"
+  },
+  "": 147,
+  "unidad": "Noroeste",
+  "partida": "Viáticos resto de personal",
+  "monto_concepto": 1418231.09110672
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb49"
+  },
+  "": 148,
+  "unidad": "Norte",
+  "partida": "Gasolina funcionarios",
+  "monto_concepto": 47809.7802135
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb4a"
+  },
+  "": 149,
+  "unidad": "Norte",
+  "partida": "Gasolina resto de personal",
+  "monto_concepto": 1198194.42912804
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb4b"
+  },
+  "": 150,
+  "unidad": "Norte",
+  "partida": "Pasajes aéreos funcionarios ",
+  "monto_concepto": 62754.629883999994
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb4c"
+  },
+  "": 151,
+  "unidad": "Norte",
+  "partida": "Pasajes aéreos resto de personal",
+  "monto_concepto": 495876.832392
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb4d"
+  },
+  "": 152,
+  "unidad": "Norte",
+  "partida": "Pasajes terrestres funcionarios",
+  "monto_concepto": 36355.7600712
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb4e"
+  },
+  "": 153,
+  "unidad": "Norte",
+  "partida": "Pasajes terrestres resto de personal",
+  "monto_concepto": 311154.73005982
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb4f"
+  },
+  "": 154,
+  "unidad": "Norte",
+  "partida": "Resico",
+  "monto_concepto": -348.9999993
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb50"
+  },
+  "": 155,
+  "unidad": "Norte",
+  "partida": "Viáticos funcionario",
+  "monto_concepto": 200449.17976621
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb51"
+  },
+  "": 156,
+  "unidad": "Norte",
+  "partida": "Viáticos resto de personal",
+  "monto_concepto": 2396324.34003991
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb52"
+  },
+  "": 157,
+  "unidad": "Occidente",
+  "partida": "Gasolina funcionarios",
+  "monto_concepto": 126384.6004681
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb53"
+  },
+  "": 158,
+  "unidad": "Occidente",
+  "partida": "Gasolina resto de personal",
+  "monto_concepto": 1732226.02980435
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb54"
+  },
+  "": 159,
+  "unidad": "Occidente",
+  "partida": "Pasajes aéreos funcionarios ",
+  "monto_concepto": 6703.080078
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb55"
+  },
+  "": 160,
+  "unidad": "Occidente",
+  "partida": "Pasajes aéreos resto de personal",
+  "monto_concepto": 102676.009766
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb56"
+  },
+  "": 161,
+  "unidad": "Occidente",
+  "partida": "Pasajes terrestres funcionarios",
+  "monto_concepto": 58510.95000687
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb57"
+  },
+  "": 162,
+  "unidad": "Occidente",
+  "partida": "Pasajes terrestres resto de personal",
+  "monto_concepto": 436251.33943854
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb58"
+  },
+  "": 163,
+  "unidad": "Occidente",
+  "partida": "Resico",
+  "monto_concepto": -1057.25999879
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb59"
+  },
+  "": 164,
+  "unidad": "Occidente",
+  "partida": "Viáticos funcionario",
+  "monto_concepto": 225574.04043659
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb5a"
+  },
+  "": 165,
+  "unidad": "Occidente",
+  "partida": "Viáticos resto de personal",
+  "monto_concepto": 3454692.09274599
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb5b"
+  },
+  "": 166,
+  "unidad": "Operaciones",
+  "partida": "Pasajes terrestres resto de personal",
+  "monto_concepto": 1431.699951
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb5c"
+  },
+  "": 167,
+  "unidad": "Operaciones",
+  "partida": "Viáticos resto de personal",
+  "monto_concepto": 5857.7499391
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb5d"
+  },
+  "": 168,
+  "unidad": "Planeación corporativa",
+  "partida": "Gasolina funcionarios",
+  "monto_concepto": 19177.790039
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb5e"
+  },
+  "": 169,
+  "unidad": "Planeación corporativa",
+  "partida": "Gasolina resto de personal",
+  "monto_concepto": 925.1099854
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb5f"
+  },
+  "": 170,
+  "unidad": "Planeación corporativa",
+  "partida": "Pasajes aéreos resto de personal",
+  "monto_concepto": 11362
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb60"
+  },
+  "": 171,
+  "unidad": "Planeación corporativa",
+  "partida": "Pasajes terrestres funcionarios",
+  "monto_concepto": 19859.9999694
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb61"
+  },
+  "": 172,
+  "unidad": "Planeación corporativa",
+  "partida": "Pasajes terrestres resto de personal",
+  "monto_concepto": 17075.2598567
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb62"
+  },
+  "": 173,
+  "unidad": "Planeación corporativa",
+  "partida": "Viáticos funcionario",
+  "monto_concepto": 71273.9108266
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb63"
+  },
+  "": 174,
+  "unidad": "Planeación corporativa",
+  "partida": "Viáticos resto de personal",
+  "monto_concepto": 37340.80995353
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb64"
+  },
+  "": 175,
+  "unidad": "Productos y servicios",
+  "partida": "Gasolina funcionarios",
+  "monto_concepto": 13792.7501224
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb65"
+  },
+  "": 176,
+  "unidad": "Productos y servicios",
+  "partida": "Gasolina resto de personal",
+  "monto_concepto": 5382.6798712
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb66"
+  },
+  "": 177,
+  "unidad": "Productos y servicios",
+  "partida": "Pasajes aéreos funcionarios ",
+  "monto_concepto": 56047
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb67"
+  },
+  "": 178,
+  "unidad": "Productos y servicios",
+  "partida": "Pasajes aéreos resto de personal",
+  "monto_concepto": 84182
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb68"
+  },
+  "": 179,
+  "unidad": "Productos y servicios",
+  "partida": "Pasajes terrestres funcionarios",
+  "monto_concepto": 18947.54988
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb69"
+  },
+  "": 180,
+  "unidad": "Productos y servicios",
+  "partida": "Pasajes terrestres resto de personal",
+  "monto_concepto": 17768.4399644
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb6a"
+  },
+  "": 181,
+  "unidad": "Productos y servicios",
+  "partida": "Viajes servicio médico",
+  "monto_concepto": 7955.10999297
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb6b"
+  },
+  "": 182,
+  "unidad": "Productos y servicios",
+  "partida": "Viáticos funcionario",
+  "monto_concepto": 75612.40982693
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb6c"
+  },
+  "": 183,
+  "unidad": "Productos y servicios",
+  "partida": "Viáticos resto de personal",
+  "monto_concepto": 81913.21037288
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb6d"
+  },
+  "": 184,
+  "unidad": "Programas y proyectos",
+  "partida": "Gasolina funcionarios",
+  "monto_concepto": 4068.6299437
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb6e"
+  },
+  "": 185,
+  "unidad": "Programas y proyectos",
+  "partida": "Gasolina resto de personal",
+  "monto_concepto": 30746.9698034
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb6f"
+  },
+  "": 186,
+  "unidad": "Programas y proyectos",
+  "partida": "Pasajes aéreos funcionarios ",
+  "monto_concepto": 51594.830078
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb70"
+  },
+  "": 187,
+  "unidad": "Programas y proyectos",
+  "partida": "Pasajes aéreos resto de personal",
+  "monto_concepto": 203958.879883
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb71"
+  },
+  "": 188,
+  "unidad": "Programas y proyectos",
+  "partida": "Pasajes terrestres funcionarios",
+  "monto_concepto": 9376.239929
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb72"
+  },
+  "": 189,
+  "unidad": "Programas y proyectos",
+  "partida": "Pasajes terrestres resto de personal",
+  "monto_concepto": 75005.84950943
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb73"
+  },
+  "": 190,
+  "unidad": "Programas y proyectos",
+  "partida": "Resico",
+  "monto_concepto": -33.32999992
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb74"
+  },
+  "": 191,
+  "unidad": "Programas y proyectos",
+  "partida": "Viáticos funcionario",
+  "monto_concepto": 62513.86005013
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb75"
+  },
+  "": 192,
+  "unidad": "Programas y proyectos",
+  "partida": "Viáticos resto de personal",
+  "monto_concepto": 211648.45052549
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb76"
+  },
+  "": 193,
+  "unidad": "Quejas",
+  "partida": "Gasolina funcionarios",
+  "monto_concepto": 920.0300293
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb77"
+  },
+  "": 194,
+  "unidad": "Quejas",
+  "partida": "Gasolina resto de personal",
+  "monto_concepto": 3389.02002
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb78"
+  },
+  "": 195,
+  "unidad": "Quejas",
+  "partida": "Pasajes terrestres funcionarios",
+  "monto_concepto": 2890.769897
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb79"
+  },
+  "": 196,
+  "unidad": "Quejas",
+  "partida": "Pasajes terrestres resto de personal",
+  "monto_concepto": 4597.9899904
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb7a"
+  },
+  "": 197,
+  "unidad": "Quejas",
+  "partida": "Viáticos funcionario",
+  "monto_concepto": 5316.8799437
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb7b"
+  },
+  "": 198,
+  "unidad": "Quejas",
+  "partida": "Viáticos resto de personal",
+  "monto_concepto": 2585.70002364
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb7c"
+  },
+  "": 199,
+  "unidad": "Recuperación",
+  "partida": "Gasolina funcionarios",
+  "monto_concepto": 1573.5700074000001
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb7d"
+  },
+  "": 200,
+  "unidad": "Recuperación",
+  "partida": "Gasolina resto de personal",
+  "monto_concepto": 2975.3900147
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb7e"
+  },
+  "": 201,
+  "unidad": "Recuperación",
+  "partida": "Pasajes aéreos funcionarios ",
+  "monto_concepto": 22142
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb7f"
+  },
+  "": 202,
+  "unidad": "Recuperación",
+  "partida": "Pasajes aéreos resto de personal",
+  "monto_concepto": 90763
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb80"
+  },
+  "": 203,
+  "unidad": "Recuperación",
+  "partida": "Pasajes terrestres funcionarios",
+  "monto_concepto": 2374.73999784
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb81"
+  },
+  "": 204,
+  "unidad": "Recuperación",
+  "partida": "Pasajes terrestres resto de personal",
+  "monto_concepto": 17308.0099638
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb82"
+  },
+  "": 205,
+  "unidad": "Recuperación",
+  "partida": "Viáticos funcionario",
+  "monto_concepto": 13766.25019071
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb83"
+  },
+  "": 206,
+  "unidad": "Recuperación",
+  "partida": "Viáticos resto de personal",
+  "monto_concepto": 32740.89972614
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb84"
+  },
+  "": 207,
+  "unidad": "Responsabilidades",
+  "partida": "Gasolina funcionarios",
+  "monto_concepto": 9716.7896719
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb85"
+  },
+  "": 208,
+  "unidad": "Responsabilidades",
+  "partida": "Gasolina resto de personal",
+  "monto_concepto": 9600.549927
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb86"
+  },
+  "": 209,
+  "unidad": "Responsabilidades",
+  "partida": "Pasajes aéreos funcionarios ",
+  "monto_concepto": 7091.330078
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb87"
+  },
+  "": 210,
+  "unidad": "Responsabilidades",
+  "partida": "Pasajes terrestres funcionarios",
+  "monto_concepto": 8208.28003686
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb88"
+  },
+  "": 211,
+  "unidad": "Responsabilidades",
+  "partida": "Pasajes terrestres resto de personal",
+  "monto_concepto": 21686.0398548
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb89"
+  },
+  "": 212,
+  "unidad": "Responsabilidades",
+  "partida": "Renta de autos",
+  "monto_concepto": 2000
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb8a"
+  },
+  "": 213,
+  "unidad": "Responsabilidades",
+  "partida": "Resico",
+  "monto_concepto": -3.79999995
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb8b"
+  },
+  "": 214,
+  "unidad": "Responsabilidades",
+  "partida": "Viáticos funcionario",
+  "monto_concepto": 27586.969901250002
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb8c"
+  },
+  "": 215,
+  "unidad": "Responsabilidades",
+  "partida": "Viáticos resto de personal",
+  "monto_concepto": 20945.180068050002
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb8d"
+  },
+  "": 216,
+  "unidad": "Riesgos",
+  "partida": "Gasolina funcionarios",
+  "monto_concepto": 12095.4500744
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb8e"
+  },
+  "": 217,
+  "unidad": "Riesgos",
+  "partida": "Pasajes terrestres funcionarios",
+  "monto_concepto": 12142.2499847
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb8f"
+  },
+  "": 218,
+  "unidad": "Riesgos",
+  "partida": "Viáticos funcionario",
+  "monto_concepto": 29196.78999342
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb90"
+  },
+  "": 219,
+  "unidad": "Sistemas",
+  "partida": "Gasolina funcionarios",
+  "monto_concepto": 2541.579956
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb91"
+  },
+  "": 220,
+  "unidad": "Sistemas",
+  "partida": "Gasolina resto de personal",
+  "monto_concepto": 16447.6199344
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb92"
+  },
+  "": 221,
+  "unidad": "Sistemas",
+  "partida": "Pasajes aéreos funcionarios ",
+  "monto_concepto": 7939
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb93"
+  },
+  "": 222,
+  "unidad": "Sistemas",
+  "partida": "Pasajes aéreos resto de personal",
+  "monto_concepto": 133053.560058
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb94"
+  },
+  "": 223,
+  "unidad": "Sistemas",
+  "partida": "Pasajes terrestres funcionarios",
+  "monto_concepto": 7492.030029
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb95"
+  },
+  "": 224,
+  "unidad": "Sistemas",
+  "partida": "Pasajes terrestres resto de personal",
+  "monto_concepto": 66526.28008544
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb96"
+  },
+  "": 225,
+  "unidad": "Sistemas",
+  "partida": "Viáticos funcionario",
+  "monto_concepto": 48037.7805928
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb97"
+  },
+  "": 226,
+  "unidad": "Sistemas",
+  "partida": "Viáticos resto de personal",
+  "monto_concepto": 162002.85030131
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb98"
+  },
+  "": 227,
+  "unidad": "Sur",
+  "partida": "Gasolina funcionarios",
+  "monto_concepto": 64691.7101465
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb99"
+  },
+  "": 228,
+  "unidad": "Sur",
+  "partida": "Gasolina resto de personal",
+  "monto_concepto": 1741398.11912421
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb9a"
+  },
+  "": 229,
+  "unidad": "Sur",
+  "partida": "Pasajes aéreos funcionarios ",
+  "monto_concepto": 17473.77002
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb9b"
+  },
+  "": 230,
+  "unidad": "Sur",
+  "partida": "Pasajes aéreos resto de personal",
+  "monto_concepto": 364275.679931
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb9c"
+  },
+  "": 231,
+  "unidad": "Sur",
+  "partida": "Pasajes terrestres funcionarios",
+  "monto_concepto": 25244.60999336
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb9d"
+  },
+  "": 232,
+  "unidad": "Sur",
+  "partida": "Pasajes terrestres resto de personal",
+  "monto_concepto": 511873.41015758
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb9e"
+  },
+  "": 233,
+  "unidad": "Sur",
+  "partida": "Resico",
+  "monto_concepto": -1714.21999738
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eb9f"
+  },
+  "": 234,
+  "unidad": "Sur",
+  "partida": "Viajes servicio médico",
+  "monto_concepto": 23626.96996328
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eba0"
+  },
+  "": 235,
+  "unidad": "Sur",
+  "partida": "Viáticos funcionario",
+  "monto_concepto": 177825.359757
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eba1"
+  },
+  "": 236,
+  "unidad": "Sur",
+  "partida": "Viáticos resto de personal",
+  "monto_concepto": 3992243.72266709
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eba2"
+  },
+  "": 237,
+  "unidad": "Sureste",
+  "partida": "Gasolina funcionarios",
+  "monto_concepto": 25591.4902954
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eba3"
+  },
+  "": 238,
+  "unidad": "Sureste",
+  "partida": "Gasolina resto de personal",
+  "monto_concepto": 880656.4687307
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eba4"
+  },
+  "": 239,
+  "unidad": "Sureste",
+  "partida": "Pasajes aéreos funcionarios ",
+  "monto_concepto": 83258.930693
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eba5"
+  },
+  "": 240,
+  "unidad": "Sureste",
+  "partida": "Pasajes aéreos resto de personal",
+  "monto_concepto": 682994.739763
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eba6"
+  },
+  "": 241,
+  "unidad": "Sureste",
+  "partida": "Pasajes terrestres funcionarios",
+  "monto_concepto": 24047.789978
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eba7"
+  },
+  "": 242,
+  "unidad": "Sureste",
+  "partida": "Pasajes terrestres resto de personal",
+  "monto_concepto": 196253.49990218
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eba8"
+  },
+  "": 243,
+  "unidad": "Sureste",
+  "partida": "Resico",
+  "monto_concepto": -724.67000541
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2eba9"
+  },
+  "": 244,
+  "unidad": "Sureste",
+  "partida": "Viáticos funcionario",
+  "monto_concepto": 222781.60021005
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2ebaa"
+  },
+  "": 245,
+  "unidad": "Sureste",
+  "partida": "Viáticos resto de personal",
+  "monto_concepto": 1766032.77943358
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2ebab"
+  },
+  "": 246,
+  "unidad": "Tesorería",
+  "partida": "Gasolina funcionarios",
+  "monto_concepto": 11185.1299748
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2ebac"
+  },
+  "": 247,
+  "unidad": "Tesorería",
+  "partida": "Gasolina resto de personal",
+  "monto_concepto": 3862.8400580999996
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2ebad"
+  },
+  "": 248,
+  "unidad": "Tesorería",
+  "partida": "Pasajes terrestres funcionarios",
+  "monto_concepto": 12033.5799561
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2ebae"
+  },
+  "": 249,
+  "unidad": "Tesorería",
+  "partida": "Pasajes terrestres resto de personal",
+  "monto_concepto": 9337.3800662
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2ebaf"
+  },
+  "": 250,
+  "unidad": "Tesorería",
+  "partida": "Viáticos funcionario",
+  "monto_concepto": 51678.750517399996
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2ebb0"
+  },
+  "": 251,
+  "unidad": "Tesorería",
+  "partida": "Viáticos resto de personal",
+  "monto_concepto": 26752.3396914
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2ebb1"
+  },
+  "": 252,
+  "unidad": "Administración",
+  "partida": "monto promedio diario",
+  "monto_concepto": 3322.9507467680714
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2ebb2"
+  },
+  "": 253,
+  "unidad": "Atención corporativa",
+  "partida": "monto promedio diario",
+  "monto_concepto": 2876.024805802856
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2ebb3"
+  },
+  "": 254,
+  "unidad": "Auditoría",
+  "partida": "monto promedio diario",
+  "monto_concepto": 1879.3728117822784
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2ebb4"
+  },
+  "": 255,
+  "unidad": "Auditoría interna",
+  "partida": "monto promedio diario",
+  "monto_concepto": 3005.643049239159
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2ebb5"
+  },
+  "": 256,
+  "unidad": "Control",
+  "partida": "monto promedio diario",
+  "monto_concepto": 3281.354948482012
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2ebb6"
+  },
+  "": 257,
+  "unidad": "Crédito",
+  "partida": "monto promedio diario",
+  "monto_concepto": 2496.9116530973415
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2ebb7"
+  },
+  "": 258,
+  "unidad": "Desarrollo y gestión",
+  "partida": "monto promedio diario",
+  "monto_concepto": 3205.873757022143
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2ebb8"
+  },
+  "": 259,
+  "unidad": "Dirección administración",
+  "partida": "monto promedio diario",
+  "monto_concepto": 2957.358060534839
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2ebb9"
+  },
+  "": 260,
+  "unidad": "Dirección de crédito",
+  "partida": "monto promedio diario",
+  "monto_concepto": 2581.721172539286
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2ebba"
+  },
+  "": 261,
+  "unidad": "Dirección de finanzas",
+  "partida": "monto promedio diario",
+  "monto_concepto": 2673.229421908889
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2ebbb"
+  },
+  "": 262,
+  "unidad": "Dirección de inteligencia",
+  "partida": "monto promedio diario",
+  "monto_concepto": 2260.7751765303574
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2ebbc"
+  },
+  "": 263,
+  "unidad": "Dirección de negocios",
+  "partida": "monto promedio diario",
+  "monto_concepto": 3450.4435501303433
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2ebbd"
+  },
+  "": 264,
+  "unidad": "Dirección de operaciones",
+  "partida": "monto promedio diario",
+  "monto_concepto": 1506.2499847749998
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2ebbe"
+  },
+  "": 265,
+  "unidad": "Dirección de regionales",
+  "partida": "monto promedio diario",
+  "monto_concepto": 4152.401844707929
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2ebbf"
+  },
+  "": 266,
+  "unidad": "Dirección de órgano interno",
+  "partida": "monto promedio diario",
+  "monto_concepto": 2468.052472760616
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2ebc0"
+  },
+  "": 267,
+  "unidad": "Dirección general",
+  "partida": "monto promedio diario",
+  "monto_concepto": 4174.11865670625
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2ebc1"
+  },
+  "": 268,
+  "unidad": "Estrategia",
+  "partida": "monto promedio diario",
+  "monto_concepto": 1353.7881967750607
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2ebc2"
+  },
+  "": 269,
+  "unidad": "Evaluación sectorial",
+  "partida": "monto promedio diario",
+  "monto_concepto": 2706.182736588878
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2ebc3"
+  },
+  "": 270,
+  "unidad": "Intemediarios financieros",
+  "partida": "monto promedio diario",
+  "monto_concepto": 2045.5368426626999
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2ebc4"
+  },
+  "": 271,
+  "unidad": "Medio ambiente",
+  "partida": "monto promedio diario",
+  "monto_concepto": 2902.488835955901
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2ebc5"
+  },
+  "": 272,
+  "unidad": "Monitoreo",
+  "partida": "monto promedio diario",
+  "monto_concepto": 2087.968471810493
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2ebc6"
+  },
+  "": 273,
+  "unidad": "Noroeste",
+  "partida": "monto promedio diario",
+  "monto_concepto": 1968.5671418240804
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2ebc7"
+  },
+  "": 274,
+  "unidad": "Norte",
+  "partida": "monto promedio diario",
+  "monto_concepto": 1732.5085496911538
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2ebc8"
+  },
+  "": 275,
+  "unidad": "Occidente",
+  "partida": "monto promedio diario",
+  "monto_concepto": 1299.8411383420023
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2ebc9"
+  },
+  "": 276,
+  "unidad": "Operaciones",
+  "partida": "monto promedio diario",
+  "monto_concepto": 1822.362472525
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2ebca"
+  },
+  "": 277,
+  "unidad": "Planeación corporativa",
+  "partida": "monto promedio diario",
+  "monto_concepto": 2693.4543135270105
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2ebcb"
+  },
+  "": 278,
+  "unidad": "Productos y servicios",
+  "partida": "monto promedio diario",
+  "monto_concepto": 3653.2901665286745
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2ebcc"
+  },
+  "": 279,
+  "unidad": "Programas y proyectos",
+  "partida": "monto promedio diario",
+  "monto_concepto": 3518.457391175296
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2ebcd"
+  },
+  "": 280,
+  "unidad": "Quejas",
+  "partida": "monto promedio diario",
+  "monto_concepto": 3072.628191540513
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2ebce"
+  },
+  "": 281,
+  "unidad": "Recuperación",
+  "partida": "monto promedio diario",
+  "monto_concepto": 4765.698654647463
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2ebcf"
+  },
+  "": 282,
+  "unidad": "Responsabilidades",
+  "partida": "monto promedio diario",
+  "monto_concepto": 3632.7304833448484
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2ebd0"
+  },
+  "": 283,
+  "unidad": "Riesgos",
+  "partida": "monto promedio diario",
+  "monto_concepto": 1813.5781896527485
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2ebd1"
+  },
+  "": 284,
+  "unidad": "Sistemas",
+  "partida": "monto promedio diario",
+  "monto_concepto": 2910.0305439291687
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2ebd2"
+  },
+  "": 285,
+  "unidad": "Sur",
+  "partida": "monto promedio diario",
+  "monto_concepto": 1373.7156695849148
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2ebd3"
+  },
+  "": 286,
+  "unidad": "Sureste",
+  "partida": "monto promedio diario",
+  "monto_concepto": 1929.8664486152977
+},
+{
+  "_id": {
+    "$oid": "65a9cdf003501196ecd2ebd4"
+  },
+  "": 287,
+  "unidad": "Tesorería",
+  "partida": "monto promedio diario",
+  "monto_concepto": 2205.6188252849593
+}]
