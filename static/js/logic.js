@@ -16,7 +16,7 @@ let dropdownMenu = d3.select("#selDataset")
 
 d3.json('static/js/Grouped_data.json').then(data => {console.log(data)
 
-//////////////////////////////////////////////////////////////
+///////////////////// Populate the Menu /////////////////////////////////
       let groupedData = d3.groups(data, d => d.unidad)
 
       let uniqueValues = groupedData.map(function(d) {
@@ -30,8 +30,24 @@ d3.json('static/js/Grouped_data.json').then(data => {console.log(data)
       for(let i =0; i<uniqueValues.length; i++){
         dropdownMenu.append("option").text(uniqueValues[i]).property("value",uniqueValues[i])
     }
-/////////////////////////////////////////////////////////////////
 
+
+/////////////////// Iterador para obtener valores del dataset //////////////////////////////
+
+let dept = "Administración" // TODO: Agregar Event Listener para alimentar aquí la selección del usuario
+let value = 0
+
+for(let i =0; i<data.length; i++){
+  if(data[i].unidad === dept){value = data[i].monto_concepto
+    console.log(`${data[i].partida} monto erogado ${value}`) // TODO: Agregar codigo para generar el cuadro resumen, dar formato 'currency',
+                                                              // se puede aprovechar la iteracion para generar las traces para las plots
+    }
+  
+}
+
+
+
+////////////////////////////////////////////
 test = [{
     x: [1, 2, 3, 4, 5],
     y: [1, 2, 4, 8, 16] }];
