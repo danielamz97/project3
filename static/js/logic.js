@@ -9,26 +9,16 @@ let map = L.map("map", {
     attribution: '<a href="https://github.com/cyclosm/cyclosm-cartocss-style/releases" title="CyclOSM - Open Bicycle render">CyclOSM</a> | Map data: &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'})
     .addTo(map)
 
+
 let dropdownMenu = d3.select("#selDataset") 
+let markersLayer =  L.layerGroup()
+map.addLayer(markersLayer)
+
+
+
+function init(){optionChanged('Total')
 
 d3.json('static/js/data.json').then(data => {
-  d3.json('static/js/location_data.json').then(data_l => {console.log(data_l)
-
-    let filterldata = data_l.filter(function(d){
-      return d.unidad === 'Norte'})
-
- 
-    console.log(filterldata)
-    filterldata.forEach(dp => L.circle(dp.coordenadas.reverse(),{
-
-      fillOpacity: 0.1,
-      color: 'red',
-      fillColor: 'red',
-      radius: 10000}).addTo(map))
-
-
-optionChanged('Total')
-
 
 ///////////////////// Populate the Menu /////////////////////////////////
       let groupedData = d3.groups(data, d => d.unidad)
@@ -37,28 +27,80 @@ optionChanged('Total')
         return d[0]
       })
 
-      console.log(uniqueValues)
-
-     
-
       for(let i =0; i<uniqueValues.length; i++){
         dropdownMenu.append("option").text(uniqueValues[i]).property("value",uniqueValues[i])
     }
     
 
 })
-})
+}
+////////////////////////// Update the map /////////////////////////////////////
+function mapper(unidad){
+  d3.json('static/js/location_data.json').then(data => {console.log(data)
+  
+    markersLayer.clearLayers()
+
+    let filter_data = data.filter(function(d){
+      return d.unidad === unidad})
+    
+    console.log(filter_data)
+
+    
+    let uniques = []
+
+    for(let i =0; i<filter_data.length; i++){
+      let destino = ''
+      destino = filter_data[i].destino_mpio
+      if(uniques.includes(destino)){} else{
+        uniques.push(destino)
+      }
+
+    }
+
+    console.log(uniques)
+    let filter_destino =[]
+    let num_viajes =[]
+    let coords = []
+    
+
+
+    for(let i =0; i<uniques.length; i++){
+    filter_destino = filter_data.filter(function(d){
+      return d.destino_mpio===uniques[i]})
+
+
+    num_viajes.push(filter_destino.length)
+    coords.push(filter_destino[0].coordenadas)  
+    }
+    
+    
+    for(let i =0; i<coords.length; i++){
+      if(coords[i][1]){
+          markersLayer.addLayer(L.marker([coords[i][1],coords[i][0]]).bindPopup(
+          `<h4> Total de viajes: ${num_viajes[i].toLocaleString()}</h4>`))
+        }
+    }
+
+  }
+)}
 
 
 ///////////////////////////////////////// Función para cambiar info de acuerdo a la selección del usuario de unidad/////////////////////////////////////
 function optionChanged(selectedValue) {
+  
   d3.json('static/js/data.json').then(function(data){
     let unidad =selectedValue
+   
+    mapper(unidad)
+ 
+    
+
+
 //////////////cambiar cuadro////////////////////////////////////
   let filteredDataChart = data.filter(function(d) {
     return d.unidad === unidad
   })
-  console.log(filteredDataChart)
+  
   let   dataDiv = d3.select('#chart')
         dataDiv.selectAll('p').remove()
 
@@ -97,7 +139,7 @@ function optionChanged(selectedValue) {
       hoverinfo: 'text',
     }]
     unidad=selectedValue
-    console.log(unidad)
+    
     let bar_layout = {
       title: `${unidad}`,
       xaxis: { title: 'Monto' },
@@ -107,11 +149,10 @@ function optionChanged(selectedValue) {
     }
 
     Plotly.newPlot('plot', bar_trace, bar_layout)
-  })
-  
+  })   
 }
 
-/////gráfica de todos los gastos por Dirección////
+///////////////////////////////////////////////////////gráfica de todos los gastos por Dirección////
 d3.json('static/js/data.json').then(function(jsonData) {
   let filteredData = jsonData.filter(entry => entry.dirección !== "Total" && entry.tipo_de_gasto !== "Total")
 
@@ -177,3 +218,5 @@ d3.json('static/js/time_data.json').then(data => {
     .domain(keys)
     .range(d3.schemeSet2);
 })
+
+init()
