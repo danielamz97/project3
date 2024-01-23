@@ -1,5 +1,8 @@
 .header-title {
     font-family: 'Roboto', sans-serif;
+    font-size: 5em;
+    text-align: center;
+    margin-top: 50px;
 
 }
 .div-1 {
@@ -7,6 +10,31 @@
     justify-content: space-between;
     flex-wrap: wrap;
 }
+#chart {
+    width: 100%; 
+}
+
+#chart .unidad {
+    transform: rotate(-45deg);
+    white-space: nowrap;
+}
+
+
+#chart .unidad {
+    font-size: 12px;
+}
+
+
+#chart .unidad {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis; 
+}
+
+#chart .unidadl:hover {
+    overflow: visible;
+}
+
 
 .div-2 {
     display: flex;
