@@ -1,0 +1,2511 @@
+[{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6738"
+  },
+  "dirección": "Total",
+  "unidad": "Total",
+  "tipo_de_gasto": "Gasolina f",
+  "monto": 524324.4603007
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6739"
+  },
+  "dirección": "Total",
+  "unidad": "Total",
+  "tipo_de_gasto": "Gasolina rp",
+  "monto": 7281891.25705083
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c673a"
+  },
+  "dirección": "Total",
+  "unidad": "Total",
+  "tipo_de_gasto": "Pasajes aéreos f ",
+  "monto": 1428836.710608
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c673b"
+  },
+  "dirección": "Total",
+  "unidad": "Total",
+  "tipo_de_gasto": "Pasajes aéreos rp",
+  "monto": 4389165.6898961
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c673c"
+  },
+  "dirección": "Total",
+  "unidad": "Total",
+  "tipo_de_gasto": "Pasajes terrestres f",
+  "monto": 448272.10959408
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c673d"
+  },
+  "dirección": "Total",
+  "unidad": "Total",
+  "tipo_de_gasto": "Pasajes terrestres rp",
+  "monto": 2975720.80591327
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c673e"
+  },
+  "dirección": "Total",
+  "unidad": "Total",
+  "tipo_de_gasto": "Viáticos f",
+  "monto": 2722787.7910751402
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c673f"
+  },
+  "dirección": "Total",
+  "unidad": "Total",
+  "tipo_de_gasto": "Viáticos rp",
+  "monto": 17539912.761047572
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6740"
+  },
+  "dirección": "DG7",
+  "unidad": "Administración",
+  "tipo_de_gasto": "Gasolina f",
+  "monto": 32093.0998828
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6741"
+  },
+  "dirección": "DG7",
+  "unidad": "Administración",
+  "tipo_de_gasto": "Gasolina rp",
+  "monto": 363670.1696494
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6742"
+  },
+  "dirección": "DG7",
+  "unidad": "Administración",
+  "tipo_de_gasto": "Pasajes aéreos f ",
+  "monto": 164693.570068
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6743"
+  },
+  "dirección": "DG7",
+  "unidad": "Administración",
+  "tipo_de_gasto": "Pasajes aéreos rp",
+  "monto": 820410.090575
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6744"
+  },
+  "dirección": "DG7",
+  "unidad": "Administración",
+  "tipo_de_gasto": "Pasajes terrestres f",
+  "monto": 48219.40005218
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6745"
+  },
+  "dirección": "DG7",
+  "unidad": "Administración",
+  "tipo_de_gasto": "Pasajes terrestres rp",
+  "monto": 622901.63810258
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6746"
+  },
+  "dirección": "DG7",
+  "unidad": "Administración",
+  "tipo_de_gasto": "Viáticos f",
+  "monto": 160976.74937947
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6747"
+  },
+  "dirección": "DG7",
+  "unidad": "Administración",
+  "tipo_de_gasto": "Viáticos rp",
+  "monto": 1195763.31936961
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6748"
+  },
+  "dirección": "DG5",
+  "unidad": "Atención corporativa",
+  "tipo_de_gasto": "Gasolina f",
+  "monto": 13621.569885
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6749"
+  },
+  "dirección": "DG5",
+  "unidad": "Atención corporativa",
+  "tipo_de_gasto": "Gasolina rp",
+  "monto": 71000.070282
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c674a"
+  },
+  "dirección": "DG5",
+  "unidad": "Atención corporativa",
+  "tipo_de_gasto": "Pasajes aéreos f ",
+  "monto": 49103.520019999996
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c674b"
+  },
+  "dirección": "DG5",
+  "unidad": "Atención corporativa",
+  "tipo_de_gasto": "Pasajes aéreos rp",
+  "monto": 107067.14941499999
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c674c"
+  },
+  "dirección": "DG5",
+  "unidad": "Atención corporativa",
+  "tipo_de_gasto": "Pasajes terrestres f",
+  "monto": 19778.0199582
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c674d"
+  },
+  "dirección": "DG5",
+  "unidad": "Atención corporativa",
+  "tipo_de_gasto": "Pasajes terrestres rp",
+  "monto": 98721.2194347
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c674e"
+  },
+  "dirección": "DG5",
+  "unidad": "Atención corporativa",
+  "tipo_de_gasto": "Viáticos f",
+  "monto": 99236.08954656
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c674f"
+  },
+  "dirección": "DG5",
+  "unidad": "Atención corporativa",
+  "tipo_de_gasto": "Viáticos rp",
+  "monto": 242041.71005134
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6750"
+  },
+  "dirección": "DG1",
+  "unidad": "Auditoría",
+  "tipo_de_gasto": "Gasolina f",
+  "monto": 1231.7800293
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6751"
+  },
+  "dirección": "DG1",
+  "unidad": "Auditoría",
+  "tipo_de_gasto": "Pasajes terrestres f",
+  "monto": 3685.01001
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6752"
+  },
+  "dirección": "DG1",
+  "unidad": "Auditoría",
+  "tipo_de_gasto": "Pasajes terrestres rp",
+  "monto": 1820
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6753"
+  },
+  "dirección": "DG1",
+  "unidad": "Auditoría",
+  "tipo_de_gasto": "Viáticos f",
+  "monto": 20177.2903437
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6754"
+  },
+  "dirección": "DG1",
+  "unidad": "Auditoría",
+  "tipo_de_gasto": "Viáticos rp",
+  "monto": 2290.0100401
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6755"
+  },
+  "dirección": "DG8",
+  "unidad": "Auditoría interna",
+  "tipo_de_gasto": "Gasolina f",
+  "monto": 12851.6599724
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6756"
+  },
+  "dirección": "DG8",
+  "unidad": "Auditoría interna",
+  "tipo_de_gasto": "Gasolina rp",
+  "monto": 21311.529907
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6757"
+  },
+  "dirección": "DG8",
+  "unidad": "Auditoría interna",
+  "tipo_de_gasto": "Pasajes aéreos f ",
+  "monto": 33420
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6758"
+  },
+  "dirección": "DG8",
+  "unidad": "Auditoría interna",
+  "tipo_de_gasto": "Pasajes aéreos rp",
+  "monto": 109450
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6759"
+  },
+  "dirección": "DG8",
+  "unidad": "Auditoría interna",
+  "tipo_de_gasto": "Pasajes terrestres f",
+  "monto": 15143.7800904
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c675a"
+  },
+  "dirección": "DG8",
+  "unidad": "Auditoría interna",
+  "tipo_de_gasto": "Pasajes terrestres rp",
+  "monto": 55028.9599609
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c675b"
+  },
+  "dirección": "DG8",
+  "unidad": "Auditoría interna",
+  "tipo_de_gasto": "Viáticos f",
+  "monto": 42874.51966797
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c675c"
+  },
+  "dirección": "DG8",
+  "unidad": "Auditoría interna",
+  "tipo_de_gasto": "Viáticos rp",
+  "monto": 174009.59905697
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c675d"
+  },
+  "dirección": "DG1",
+  "unidad": "Control",
+  "tipo_de_gasto": "Gasolina f",
+  "monto": 5404.060058
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c675e"
+  },
+  "dirección": "DG1",
+  "unidad": "Control",
+  "tipo_de_gasto": "Pasajes aéreos rp",
+  "monto": 50904
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c675f"
+  },
+  "dirección": "DG1",
+  "unidad": "Control",
+  "tipo_de_gasto": "Pasajes terrestres f",
+  "monto": 5101.0500489999995
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6760"
+  },
+  "dirección": "DG1",
+  "unidad": "Control",
+  "tipo_de_gasto": "Pasajes terrestres rp",
+  "monto": 5797.1399534
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6761"
+  },
+  "dirección": "DG1",
+  "unidad": "Control",
+  "tipo_de_gasto": "Viáticos f",
+  "monto": 12778.98022089
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6762"
+  },
+  "dirección": "DG1",
+  "unidad": "Control",
+  "tipo_de_gasto": "Viáticos rp",
+  "monto": 28622.2199254
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6763"
+  },
+  "dirección": "DG3",
+  "unidad": "Crédito",
+  "tipo_de_gasto": "Gasolina f",
+  "monto": 6235.1999211
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6764"
+  },
+  "dirección": "DG3",
+  "unidad": "Crédito",
+  "tipo_de_gasto": "Gasolina rp",
+  "monto": 7798.3800049
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6765"
+  },
+  "dirección": "DG3",
+  "unidad": "Crédito",
+  "tipo_de_gasto": "Pasajes aéreos f ",
+  "monto": 63391.4004
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6766"
+  },
+  "dirección": "DG3",
+  "unidad": "Crédito",
+  "tipo_de_gasto": "Pasajes aéreos rp",
+  "monto": 27497.879883
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6767"
+  },
+  "dirección": "DG3",
+  "unidad": "Crédito",
+  "tipo_de_gasto": "Pasajes terrestres f",
+  "monto": 7484
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6768"
+  },
+  "dirección": "DG3",
+  "unidad": "Crédito",
+  "tipo_de_gasto": "Pasajes terrestres rp",
+  "monto": 11096.5599976
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6769"
+  },
+  "dirección": "DG3",
+  "unidad": "Crédito",
+  "tipo_de_gasto": "Viáticos f",
+  "monto": 132819.94980646
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c676a"
+  },
+  "dirección": "DG3",
+  "unidad": "Crédito",
+  "tipo_de_gasto": "Viáticos rp",
+  "monto": 97819.95860443
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c676b"
+  },
+  "dirección": "DG8",
+  "unidad": "Desarrollo y gestión",
+  "tipo_de_gasto": "Gasolina f",
+  "monto": 937.1599731
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c676c"
+  },
+  "dirección": "DG8",
+  "unidad": "Desarrollo y gestión",
+  "tipo_de_gasto": "Gasolina rp",
+  "monto": 2983.3499757
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c676d"
+  },
+  "dirección": "DG8",
+  "unidad": "Desarrollo y gestión",
+  "tipo_de_gasto": "Pasajes aéreos rp",
+  "monto": 11910
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c676e"
+  },
+  "dirección": "DG8",
+  "unidad": "Desarrollo y gestión",
+  "tipo_de_gasto": "Pasajes terrestres rp",
+  "monto": 6169.1699829
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c676f"
+  },
+  "dirección": "DG8",
+  "unidad": "Desarrollo y gestión",
+  "tipo_de_gasto": "Viáticos f",
+  "monto": 3027.5101014
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6770"
+  },
+  "dirección": "DG8",
+  "unidad": "Desarrollo y gestión",
+  "tipo_de_gasto": "Viáticos rp",
+  "monto": 9802.38008939
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6771"
+  },
+  "dirección": "DG7",
+  "unidad": "Dirección administración",
+  "tipo_de_gasto": "Pasajes aéreos rp",
+  "monto": 7250
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6772"
+  },
+  "dirección": "DG7",
+  "unidad": "Dirección administración",
+  "tipo_de_gasto": "Pasajes terrestres rp",
+  "monto": 1630
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6773"
+  },
+  "dirección": "DG7",
+  "unidad": "Dirección administración",
+  "tipo_de_gasto": "Viáticos f",
+  "monto": 1399.00000766
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6774"
+  },
+  "dirección": "DG7",
+  "unidad": "Dirección administración",
+  "tipo_de_gasto": "Viáticos rp",
+  "monto": 5892.8499756
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6775"
+  },
+  "dirección": "DG3",
+  "unidad": "Dirección de crédito",
+  "tipo_de_gasto": "Gasolina f",
+  "monto": 3377.010132
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6776"
+  },
+  "dirección": "DG3",
+  "unidad": "Dirección de crédito",
+  "tipo_de_gasto": "Pasajes aéreos f ",
+  "monto": 29358.280152
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6777"
+  },
+  "dirección": "DG3",
+  "unidad": "Dirección de crédito",
+  "tipo_de_gasto": "Pasajes terrestres f",
+  "monto": 395
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6778"
+  },
+  "dirección": "DG3",
+  "unidad": "Dirección de crédito",
+  "tipo_de_gasto": "Pasajes terrestres rp",
+  "monto": 1788.800049
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6779"
+  },
+  "dirección": "DG3",
+  "unidad": "Dirección de crédito",
+  "tipo_de_gasto": "Viáticos f",
+  "monto": 64170.61027435
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c677a"
+  },
+  "dirección": "DG3",
+  "unidad": "Dirección de crédito",
+  "tipo_de_gasto": "Viáticos rp",
+  "monto": 8760.4901117
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c677b"
+  },
+  "dirección": "DG4",
+  "unidad": "Dirección de finanzas",
+  "tipo_de_gasto": "Gasolina f",
+  "monto": 9164.370116
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c677c"
+  },
+  "dirección": "DG4",
+  "unidad": "Dirección de finanzas",
+  "tipo_de_gasto": "Pasajes terrestres f",
+  "monto": 6335.999755000001
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c677d"
+  },
+  "dirección": "DG4",
+  "unidad": "Dirección de finanzas",
+  "tipo_de_gasto": "Pasajes terrestres rp",
+  "monto": 1251.699951
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c677e"
+  },
+  "dirección": "DG4",
+  "unidad": "Dirección de finanzas",
+  "tipo_de_gasto": "Viáticos f",
+  "monto": 20726.4998483
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c677f"
+  },
+  "dirección": "DG4",
+  "unidad": "Dirección de finanzas",
+  "tipo_de_gasto": "Viáticos rp",
+  "monto": 6024.9999391
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6780"
+  },
+  "dirección": "DG2",
+  "unidad": "Dirección de inteligencia",
+  "tipo_de_gasto": "Pasajes aéreos rp",
+  "monto": 9291
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6781"
+  },
+  "dirección": "DG2",
+  "unidad": "Dirección de inteligencia",
+  "tipo_de_gasto": "Pasajes terrestres rp",
+  "monto": 1200
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6782"
+  },
+  "dirección": "DG2",
+  "unidad": "Dirección de inteligencia",
+  "tipo_de_gasto": "Viáticos f",
+  "monto": 14674.4700634
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6783"
+  },
+  "dirección": "DG2",
+  "unidad": "Dirección de inteligencia",
+  "tipo_de_gasto": "Viáticos rp",
+  "monto": 6024.9999391
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6784"
+  },
+  "dirección": "DG5",
+  "unidad": "Dirección de negocios",
+  "tipo_de_gasto": "Gasolina f",
+  "monto": 6956.209839
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6785"
+  },
+  "dirección": "DG5",
+  "unidad": "Dirección de negocios",
+  "tipo_de_gasto": "Gasolina rp",
+  "monto": 1840.300049
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6786"
+  },
+  "dirección": "DG5",
+  "unidad": "Dirección de negocios",
+  "tipo_de_gasto": "Pasajes aéreos f ",
+  "monto": 114643.69994600001
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6787"
+  },
+  "dirección": "DG5",
+  "unidad": "Dirección de negocios",
+  "tipo_de_gasto": "Pasajes terrestres f",
+  "monto": 11039.469848
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6788"
+  },
+  "dirección": "DG5",
+  "unidad": "Dirección de negocios",
+  "tipo_de_gasto": "Pasajes terrestres rp",
+  "monto": 2448.599976
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6789"
+  },
+  "dirección": "DG5",
+  "unidad": "Dirección de negocios",
+  "tipo_de_gasto": "Viáticos f",
+  "monto": 135405.12972888
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c678a"
+  },
+  "dirección": "DG5",
+  "unidad": "Dirección de negocios",
+  "tipo_de_gasto": "Viáticos rp",
+  "monto": 6024.9999391
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c678b"
+  },
+  "dirección": "DG6",
+  "unidad": "Dirección de operaciones",
+  "tipo_de_gasto": "Viáticos rp",
+  "monto": 6024.9999391
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c678c"
+  },
+  "dirección": "DG9",
+  "unidad": "Dirección de regionales",
+  "tipo_de_gasto": "Pasajes aéreos f ",
+  "monto": 228564.699951
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c678d"
+  },
+  "dirección": "DG9",
+  "unidad": "Dirección de regionales",
+  "tipo_de_gasto": "Pasajes terrestres f",
+  "monto": 8912
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c678e"
+  },
+  "dirección": "DG9",
+  "unidad": "Dirección de regionales",
+  "tipo_de_gasto": "Pasajes terrestres rp",
+  "monto": 2066.699951
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c678f"
+  },
+  "dirección": "DG9",
+  "unidad": "Dirección de regionales",
+  "tipo_de_gasto": "Viáticos f",
+  "monto": 154142.1595902
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6790"
+  },
+  "dirección": "DG9",
+  "unidad": "Dirección de regionales",
+  "tipo_de_gasto": "Viáticos rp",
+  "monto": 6548.8402101
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6791"
+  },
+  "dirección": "DG8",
+  "unidad": "Dirección de órgano interno",
+  "tipo_de_gasto": "Gasolina f",
+  "monto": 1966.6400146
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6792"
+  },
+  "dirección": "DG8",
+  "unidad": "Dirección de órgano interno",
+  "tipo_de_gasto": "Gasolina rp",
+  "monto": 6800.3900139
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6793"
+  },
+  "dirección": "DG8",
+  "unidad": "Dirección de órgano interno",
+  "tipo_de_gasto": "Pasajes aéreos rp",
+  "monto": 6140
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6794"
+  },
+  "dirección": "DG8",
+  "unidad": "Dirección de órgano interno",
+  "tipo_de_gasto": "Pasajes terrestres f",
+  "monto": 1933.9599915
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6795"
+  },
+  "dirección": "DG8",
+  "unidad": "Dirección de órgano interno",
+  "tipo_de_gasto": "Pasajes terrestres rp",
+  "monto": 11215.9899902
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6796"
+  },
+  "dirección": "DG8",
+  "unidad": "Dirección de órgano interno",
+  "tipo_de_gasto": "Viáticos f",
+  "monto": 46604.36069513
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6797"
+  },
+  "dirección": "DG8",
+  "unidad": "Dirección de órgano interno",
+  "tipo_de_gasto": "Viáticos rp",
+  "monto": 30624.67977034
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6798"
+  },
+  "dirección": "DG1",
+  "unidad": "Dirección general",
+  "tipo_de_gasto": "Gasolina rp",
+  "monto": 976.8299865
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6799"
+  },
+  "dirección": "DG1",
+  "unidad": "Dirección general",
+  "tipo_de_gasto": "Pasajes aéreos f ",
+  "monto": 265806
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c679a"
+  },
+  "dirección": "DG1",
+  "unidad": "Dirección general",
+  "tipo_de_gasto": "Pasajes aéreos rp",
+  "monto": 6140
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c679b"
+  },
+  "dirección": "DG1",
+  "unidad": "Dirección general",
+  "tipo_de_gasto": "Pasajes terrestres rp",
+  "monto": 9422.5200198
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c679c"
+  },
+  "dirección": "DG1",
+  "unidad": "Dirección general",
+  "tipo_de_gasto": "Viáticos f",
+  "monto": 62180.6903362
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c679d"
+  },
+  "dirección": "DG1",
+  "unidad": "Dirección general",
+  "tipo_de_gasto": "Viáticos rp",
+  "monto": 24714.5997313
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c679e"
+  },
+  "dirección": "DG1",
+  "unidad": "Estrategia",
+  "tipo_de_gasto": "Gasolina f",
+  "monto": 21515.599792600002
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c679f"
+  },
+  "dirección": "DG1",
+  "unidad": "Estrategia",
+  "tipo_de_gasto": "Gasolina rp",
+  "monto": 288511.61024645
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67a0"
+  },
+  "dirección": "DG1",
+  "unidad": "Estrategia",
+  "tipo_de_gasto": "Pasajes aéreos f ",
+  "monto": 20682
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67a1"
+  },
+  "dirección": "DG1",
+  "unidad": "Estrategia",
+  "tipo_de_gasto": "Pasajes aéreos rp",
+  "monto": 152610.469972
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67a2"
+  },
+  "dirección": "DG1",
+  "unidad": "Estrategia",
+  "tipo_de_gasto": "Pasajes terrestres f",
+  "monto": 16572.449982
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67a3"
+  },
+  "dirección": "DG1",
+  "unidad": "Estrategia",
+  "tipo_de_gasto": "Pasajes terrestres rp",
+  "monto": 97051.65995956
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67a4"
+  },
+  "dirección": "DG1",
+  "unidad": "Estrategia",
+  "tipo_de_gasto": "Viáticos f",
+  "monto": 62459.3900915
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67a5"
+  },
+  "dirección": "DG1",
+  "unidad": "Estrategia",
+  "tipo_de_gasto": "Viáticos rp",
+  "monto": 805200.28121106
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67a6"
+  },
+  "dirección": "DG2",
+  "unidad": "Evaluación sectorial",
+  "tipo_de_gasto": "Gasolina f",
+  "monto": 9824.230133000001
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67a7"
+  },
+  "dirección": "DG2",
+  "unidad": "Evaluación sectorial",
+  "tipo_de_gasto": "Gasolina rp",
+  "monto": 2776.47998
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67a8"
+  },
+  "dirección": "DG2",
+  "unidad": "Evaluación sectorial",
+  "tipo_de_gasto": "Pasajes aéreos f ",
+  "monto": 17992
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67a9"
+  },
+  "dirección": "DG2",
+  "unidad": "Evaluación sectorial",
+  "tipo_de_gasto": "Pasajes terrestres f",
+  "monto": 12196.8599853
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67aa"
+  },
+  "dirección": "DG2",
+  "unidad": "Evaluación sectorial",
+  "tipo_de_gasto": "Pasajes terrestres rp",
+  "monto": 6190.4899292
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67ab"
+  },
+  "dirección": "DG2",
+  "unidad": "Evaluación sectorial",
+  "tipo_de_gasto": "Viáticos f",
+  "monto": 37784.3000799
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67ac"
+  },
+  "dirección": "DG2",
+  "unidad": "Evaluación sectorial",
+  "tipo_de_gasto": "Viáticos rp",
+  "monto": 18673.36004708
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67ad"
+  },
+  "dirección": "DG3",
+  "unidad": "Intemediarios financieros",
+  "tipo_de_gasto": "Gasolina f",
+  "monto": 2623.829987
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67ae"
+  },
+  "dirección": "DG3",
+  "unidad": "Intemediarios financieros",
+  "tipo_de_gasto": "Gasolina rp",
+  "monto": 2084.7000118
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67af"
+  },
+  "dirección": "DG3",
+  "unidad": "Intemediarios financieros",
+  "tipo_de_gasto": "Pasajes aéreos rp",
+  "monto": 23408
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67b0"
+  },
+  "dirección": "DG3",
+  "unidad": "Intemediarios financieros",
+  "tipo_de_gasto": "Pasajes terrestres f",
+  "monto": 2149
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67b1"
+  },
+  "dirección": "DG3",
+  "unidad": "Intemediarios financieros",
+  "tipo_de_gasto": "Pasajes terrestres rp",
+  "monto": 3281.699951
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67b2"
+  },
+  "dirección": "DG3",
+  "unidad": "Intemediarios financieros",
+  "tipo_de_gasto": "Viáticos f",
+  "monto": 31088.06006663
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67b3"
+  },
+  "dirección": "DG3",
+  "unidad": "Intemediarios financieros",
+  "tipo_de_gasto": "Viáticos rp",
+  "monto": 61084.6797458
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67b4"
+  },
+  "dirección": "DG2",
+  "unidad": "Medio ambiente",
+  "tipo_de_gasto": "Gasolina f",
+  "monto": 25170.9297464
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67b5"
+  },
+  "dirección": "DG2",
+  "unidad": "Medio ambiente",
+  "tipo_de_gasto": "Gasolina rp",
+  "monto": 3990.6800236999998
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67b6"
+  },
+  "dirección": "DG2",
+  "unidad": "Medio ambiente",
+  "tipo_de_gasto": "Pasajes aéreos rp",
+  "monto": 58484.9099731
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67b7"
+  },
+  "dirección": "DG2",
+  "unidad": "Medio ambiente",
+  "tipo_de_gasto": "Pasajes terrestres f",
+  "monto": 31346.06012737
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67b8"
+  },
+  "dirección": "DG2",
+  "unidad": "Medio ambiente",
+  "tipo_de_gasto": "Pasajes terrestres rp",
+  "monto": 22308.94007123
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67b9"
+  },
+  "dirección": "DG2",
+  "unidad": "Medio ambiente",
+  "tipo_de_gasto": "Viáticos f",
+  "monto": 62150.16916839
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67ba"
+  },
+  "dirección": "DG2",
+  "unidad": "Medio ambiente",
+  "tipo_de_gasto": "Viáticos rp",
+  "monto": 66451.22051233
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67bb"
+  },
+  "dirección": "DG3",
+  "unidad": "Monitoreo",
+  "tipo_de_gasto": "Gasolina f",
+  "monto": 14180.220124
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67bc"
+  },
+  "dirección": "DG3",
+  "unidad": "Monitoreo",
+  "tipo_de_gasto": "Gasolina rp",
+  "monto": 206696.6211569
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67bd"
+  },
+  "dirección": "DG3",
+  "unidad": "Monitoreo",
+  "tipo_de_gasto": "Pasajes aéreos f ",
+  "monto": 13077
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67be"
+  },
+  "dirección": "DG3",
+  "unidad": "Monitoreo",
+  "tipo_de_gasto": "Pasajes aéreos rp",
+  "monto": 239085.449951
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67bf"
+  },
+  "dirección": "DG3",
+  "unidad": "Monitoreo",
+  "tipo_de_gasto": "Pasajes terrestres f",
+  "monto": 13205.690018199999
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67c0"
+  },
+  "dirección": "DG3",
+  "unidad": "Monitoreo",
+  "tipo_de_gasto": "Pasajes terrestres rp",
+  "monto": 172108.52992682
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67c1"
+  },
+  "dirección": "DG3",
+  "unidad": "Monitoreo",
+  "tipo_de_gasto": "Viáticos f",
+  "monto": 158775.73030052
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67c2"
+  },
+  "dirección": "DG3",
+  "unidad": "Monitoreo",
+  "tipo_de_gasto": "Viáticos rp",
+  "monto": 1142801.72611907
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67c3"
+  },
+  "dirección": "DG9",
+  "unidad": "Noroeste",
+  "tipo_de_gasto": "Gasolina f",
+  "monto": 17621.589752
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67c4"
+  },
+  "dirección": "DG9",
+  "unidad": "Noroeste",
+  "tipo_de_gasto": "Gasolina rp",
+  "monto": 682438.77934758
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67c5"
+  },
+  "dirección": "DG9",
+  "unidad": "Noroeste",
+  "tipo_de_gasto": "Pasajes aéreos f ",
+  "monto": 115394.92920099999
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67c6"
+  },
+  "dirección": "DG9",
+  "unidad": "Noroeste",
+  "tipo_de_gasto": "Pasajes aéreos rp",
+  "monto": 590374.038334
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67c7"
+  },
+  "dirección": "DG9",
+  "unidad": "Noroeste",
+  "tipo_de_gasto": "Pasajes terrestres f",
+  "monto": 7289.8099976
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67c8"
+  },
+  "dirección": "DG9",
+  "unidad": "Noroeste",
+  "tipo_de_gasto": "Pasajes terrestres rp",
+  "monto": 158645.54989629
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67c9"
+  },
+  "dirección": "DG9",
+  "unidad": "Noroeste",
+  "tipo_de_gasto": "Viáticos f",
+  "monto": 187722.34974484
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67ca"
+  },
+  "dirección": "DG9",
+  "unidad": "Noroeste",
+  "tipo_de_gasto": "Viáticos rp",
+  "monto": 1418867.09110672
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67cb"
+  },
+  "dirección": "DG9",
+  "unidad": "Norte",
+  "tipo_de_gasto": "Gasolina f",
+  "monto": 47809.7802135
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67cc"
+  },
+  "dirección": "DG9",
+  "unidad": "Norte",
+  "tipo_de_gasto": "Gasolina rp",
+  "monto": 1198194.42912804
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67cd"
+  },
+  "dirección": "DG9",
+  "unidad": "Norte",
+  "tipo_de_gasto": "Pasajes aéreos f ",
+  "monto": 62754.629884
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67ce"
+  },
+  "dirección": "DG9",
+  "unidad": "Norte",
+  "tipo_de_gasto": "Pasajes aéreos rp",
+  "monto": 495876.832392
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67cf"
+  },
+  "dirección": "DG9",
+  "unidad": "Norte",
+  "tipo_de_gasto": "Pasajes terrestres f",
+  "monto": 36355.7600712
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67d0"
+  },
+  "dirección": "DG9",
+  "unidad": "Norte",
+  "tipo_de_gasto": "Pasajes terrestres rp",
+  "monto": 311154.73005982
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67d1"
+  },
+  "dirección": "DG9",
+  "unidad": "Norte",
+  "tipo_de_gasto": "Viáticos f",
+  "monto": 200449.17976621
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67d2"
+  },
+  "dirección": "DG9",
+  "unidad": "Norte",
+  "tipo_de_gasto": "Viáticos rp",
+  "monto": 2396324.34003991
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67d3"
+  },
+  "dirección": "DG9",
+  "unidad": "Occidente",
+  "tipo_de_gasto": "Gasolina f",
+  "monto": 126384.6004681
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67d4"
+  },
+  "dirección": "DG9",
+  "unidad": "Occidente",
+  "tipo_de_gasto": "Gasolina rp",
+  "monto": 1729678.59984215
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67d5"
+  },
+  "dirección": "DG9",
+  "unidad": "Occidente",
+  "tipo_de_gasto": "Pasajes aéreos f ",
+  "monto": 6703.080078
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67d6"
+  },
+  "dirección": "DG9",
+  "unidad": "Occidente",
+  "tipo_de_gasto": "Pasajes aéreos rp",
+  "monto": 102676.009766
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67d7"
+  },
+  "dirección": "DG9",
+  "unidad": "Occidente",
+  "tipo_de_gasto": "Pasajes terrestres f",
+  "monto": 58510.95000687
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67d8"
+  },
+  "dirección": "DG9",
+  "unidad": "Occidente",
+  "tipo_de_gasto": "Pasajes terrestres rp",
+  "monto": 435317.34944834
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67d9"
+  },
+  "dirección": "DG9",
+  "unidad": "Occidente",
+  "tipo_de_gasto": "Viáticos f",
+  "monto": 225574.04043659
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67da"
+  },
+  "dirección": "DG9",
+  "unidad": "Occidente",
+  "tipo_de_gasto": "Viáticos rp",
+  "monto": 3444214.72287289
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67db"
+  },
+  "dirección": "DG6",
+  "unidad": "Operaciones",
+  "tipo_de_gasto": "Pasajes terrestres rp",
+  "monto": 1431.699951
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67dc"
+  },
+  "dirección": "DG6",
+  "unidad": "Operaciones",
+  "tipo_de_gasto": "Viáticos rp",
+  "monto": 5857.7499391
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67dd"
+  },
+  "dirección": "DG4",
+  "unidad": "Planeación corporativa",
+  "tipo_de_gasto": "Gasolina f",
+  "monto": 19177.790039
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67de"
+  },
+  "dirección": "DG4",
+  "unidad": "Planeación corporativa",
+  "tipo_de_gasto": "Gasolina rp",
+  "monto": 925.1099854
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67df"
+  },
+  "dirección": "DG4",
+  "unidad": "Planeación corporativa",
+  "tipo_de_gasto": "Pasajes aéreos rp",
+  "monto": 11362
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67e0"
+  },
+  "dirección": "DG4",
+  "unidad": "Planeación corporativa",
+  "tipo_de_gasto": "Pasajes terrestres f",
+  "monto": 19859.9999694
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67e1"
+  },
+  "dirección": "DG4",
+  "unidad": "Planeación corporativa",
+  "tipo_de_gasto": "Pasajes terrestres rp",
+  "monto": 17075.2598567
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67e2"
+  },
+  "dirección": "DG4",
+  "unidad": "Planeación corporativa",
+  "tipo_de_gasto": "Viáticos f",
+  "monto": 71273.9108266
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67e3"
+  },
+  "dirección": "DG4",
+  "unidad": "Planeación corporativa",
+  "tipo_de_gasto": "Viáticos rp",
+  "monto": 37340.80995353
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67e4"
+  },
+  "dirección": "DG5",
+  "unidad": "Productos y servicios",
+  "tipo_de_gasto": "Gasolina f",
+  "monto": 13792.7501224
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67e5"
+  },
+  "dirección": "DG5",
+  "unidad": "Productos y servicios",
+  "tipo_de_gasto": "Gasolina rp",
+  "monto": 5382.6798712
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67e6"
+  },
+  "dirección": "DG5",
+  "unidad": "Productos y servicios",
+  "tipo_de_gasto": "Pasajes aéreos f ",
+  "monto": 56047
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67e7"
+  },
+  "dirección": "DG5",
+  "unidad": "Productos y servicios",
+  "tipo_de_gasto": "Pasajes aéreos rp",
+  "monto": 84182
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67e8"
+  },
+  "dirección": "DG5",
+  "unidad": "Productos y servicios",
+  "tipo_de_gasto": "Pasajes terrestres f",
+  "monto": 18947.54988
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67e9"
+  },
+  "dirección": "DG5",
+  "unidad": "Productos y servicios",
+  "tipo_de_gasto": "Pasajes terrestres rp",
+  "monto": 17768.4399644
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67ea"
+  },
+  "dirección": "DG5",
+  "unidad": "Productos y servicios",
+  "tipo_de_gasto": "Viáticos f",
+  "monto": 75612.40982693
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67eb"
+  },
+  "dirección": "DG5",
+  "unidad": "Productos y servicios",
+  "tipo_de_gasto": "Viáticos rp",
+  "monto": 81913.21037288
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67ec"
+  },
+  "dirección": "DG5",
+  "unidad": "Programas y proyectos",
+  "tipo_de_gasto": "Gasolina f",
+  "monto": 4068.6299437
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67ed"
+  },
+  "dirección": "DG5",
+  "unidad": "Programas y proyectos",
+  "tipo_de_gasto": "Gasolina rp",
+  "monto": 30746.9698034
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67ee"
+  },
+  "dirección": "DG5",
+  "unidad": "Programas y proyectos",
+  "tipo_de_gasto": "Pasajes aéreos f ",
+  "monto": 51594.830078
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67ef"
+  },
+  "dirección": "DG5",
+  "unidad": "Programas y proyectos",
+  "tipo_de_gasto": "Pasajes aéreos rp",
+  "monto": 203958.879883
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67f0"
+  },
+  "dirección": "DG5",
+  "unidad": "Programas y proyectos",
+  "tipo_de_gasto": "Pasajes terrestres f",
+  "monto": 9376.239929
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67f1"
+  },
+  "dirección": "DG5",
+  "unidad": "Programas y proyectos",
+  "tipo_de_gasto": "Pasajes terrestres rp",
+  "monto": 75005.84950943
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67f2"
+  },
+  "dirección": "DG5",
+  "unidad": "Programas y proyectos",
+  "tipo_de_gasto": "Viáticos f",
+  "monto": 62513.86005013
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67f3"
+  },
+  "dirección": "DG5",
+  "unidad": "Programas y proyectos",
+  "tipo_de_gasto": "Viáticos rp",
+  "monto": 211648.45052549
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67f4"
+  },
+  "dirección": "DG8",
+  "unidad": "Quejas",
+  "tipo_de_gasto": "Gasolina f",
+  "monto": 920.0300293
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67f5"
+  },
+  "dirección": "DG8",
+  "unidad": "Quejas",
+  "tipo_de_gasto": "Gasolina rp",
+  "monto": 3389.02002
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67f6"
+  },
+  "dirección": "DG8",
+  "unidad": "Quejas",
+  "tipo_de_gasto": "Pasajes terrestres f",
+  "monto": 2890.769897
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67f7"
+  },
+  "dirección": "DG8",
+  "unidad": "Quejas",
+  "tipo_de_gasto": "Pasajes terrestres rp",
+  "monto": 4597.989990399999
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67f8"
+  },
+  "dirección": "DG8",
+  "unidad": "Quejas",
+  "tipo_de_gasto": "Viáticos f",
+  "monto": 5316.8799437
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67f9"
+  },
+  "dirección": "DG8",
+  "unidad": "Quejas",
+  "tipo_de_gasto": "Viáticos rp",
+  "monto": 2585.70002364
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67fa"
+  },
+  "dirección": "DG7",
+  "unidad": "Recuperación",
+  "tipo_de_gasto": "Gasolina f",
+  "monto": 1573.5700074000001
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67fb"
+  },
+  "dirección": "DG7",
+  "unidad": "Recuperación",
+  "tipo_de_gasto": "Gasolina rp",
+  "monto": 2975.3900147
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67fc"
+  },
+  "dirección": "DG7",
+  "unidad": "Recuperación",
+  "tipo_de_gasto": "Pasajes aéreos f ",
+  "monto": 22142
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67fd"
+  },
+  "dirección": "DG7",
+  "unidad": "Recuperación",
+  "tipo_de_gasto": "Pasajes aéreos rp",
+  "monto": 90763
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67fe"
+  },
+  "dirección": "DG7",
+  "unidad": "Recuperación",
+  "tipo_de_gasto": "Pasajes terrestres f",
+  "monto": 2374.73999784
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c67ff"
+  },
+  "dirección": "DG7",
+  "unidad": "Recuperación",
+  "tipo_de_gasto": "Pasajes terrestres rp",
+  "monto": 17308.0099638
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6800"
+  },
+  "dirección": "DG7",
+  "unidad": "Recuperación",
+  "tipo_de_gasto": "Viáticos f",
+  "monto": 13766.25019071
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6801"
+  },
+  "dirección": "DG7",
+  "unidad": "Recuperación",
+  "tipo_de_gasto": "Viáticos rp",
+  "monto": 32740.89972614
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6802"
+  },
+  "dirección": "DG8",
+  "unidad": "Responsabilidades",
+  "tipo_de_gasto": "Gasolina f",
+  "monto": 9716.789671900002
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6803"
+  },
+  "dirección": "DG8",
+  "unidad": "Responsabilidades",
+  "tipo_de_gasto": "Gasolina rp",
+  "monto": 9600.549927
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6804"
+  },
+  "dirección": "DG8",
+  "unidad": "Responsabilidades",
+  "tipo_de_gasto": "Pasajes aéreos f ",
+  "monto": 7091.330078
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6805"
+  },
+  "dirección": "DG8",
+  "unidad": "Responsabilidades",
+  "tipo_de_gasto": "Pasajes terrestres f",
+  "monto": 8208.28003686
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6806"
+  },
+  "dirección": "DG8",
+  "unidad": "Responsabilidades",
+  "tipo_de_gasto": "Pasajes terrestres rp",
+  "monto": 21686.0398548
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6807"
+  },
+  "dirección": "DG8",
+  "unidad": "Responsabilidades",
+  "tipo_de_gasto": "Viáticos f",
+  "monto": 27586.96990125
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6808"
+  },
+  "dirección": "DG8",
+  "unidad": "Responsabilidades",
+  "tipo_de_gasto": "Viáticos rp",
+  "monto": 20945.180068050002
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6809"
+  },
+  "dirección": "DG1",
+  "unidad": "Riesgos",
+  "tipo_de_gasto": "Gasolina f",
+  "monto": 12095.4500744
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c680a"
+  },
+  "dirección": "DG1",
+  "unidad": "Riesgos",
+  "tipo_de_gasto": "Pasajes terrestres f",
+  "monto": 12142.2499847
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c680b"
+  },
+  "dirección": "DG1",
+  "unidad": "Riesgos",
+  "tipo_de_gasto": "Viáticos f",
+  "monto": 29196.78999342
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c680c"
+  },
+  "dirección": "DG6",
+  "unidad": "Sistemas",
+  "tipo_de_gasto": "Gasolina f",
+  "monto": 2541.579956
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c680d"
+  },
+  "dirección": "DG6",
+  "unidad": "Sistemas",
+  "tipo_de_gasto": "Gasolina rp",
+  "monto": 16447.6199344
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c680e"
+  },
+  "dirección": "DG6",
+  "unidad": "Sistemas",
+  "tipo_de_gasto": "Pasajes aéreos f ",
+  "monto": 7939
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c680f"
+  },
+  "dirección": "DG6",
+  "unidad": "Sistemas",
+  "tipo_de_gasto": "Pasajes aéreos rp",
+  "monto": 133053.560058
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6810"
+  },
+  "dirección": "DG6",
+  "unidad": "Sistemas",
+  "tipo_de_gasto": "Pasajes terrestres f",
+  "monto": 7492.030029
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6811"
+  },
+  "dirección": "DG6",
+  "unidad": "Sistemas",
+  "tipo_de_gasto": "Pasajes terrestres rp",
+  "monto": 66526.28008544
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6812"
+  },
+  "dirección": "DG6",
+  "unidad": "Sistemas",
+  "tipo_de_gasto": "Viáticos f",
+  "monto": 48037.7805928
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6813"
+  },
+  "dirección": "DG6",
+  "unidad": "Sistemas",
+  "tipo_de_gasto": "Viáticos rp",
+  "monto": 162002.85030130998
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6814"
+  },
+  "dirección": "DG9",
+  "unidad": "Sur",
+  "tipo_de_gasto": "Gasolina f",
+  "monto": 64691.7101465
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6815"
+  },
+  "dirección": "DG9",
+  "unidad": "Sur",
+  "tipo_de_gasto": "Gasolina rp",
+  "monto": 1740904.31913641
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6816"
+  },
+  "dirección": "DG9",
+  "unidad": "Sur",
+  "tipo_de_gasto": "Pasajes aéreos f ",
+  "monto": 17473.77002
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6817"
+  },
+  "dirección": "DG9",
+  "unidad": "Sur",
+  "tipo_de_gasto": "Pasajes aéreos rp",
+  "monto": 364275.679931
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6818"
+  },
+  "dirección": "DG9",
+  "unidad": "Sur",
+  "tipo_de_gasto": "Pasajes terrestres f",
+  "monto": 25244.60999336
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6819"
+  },
+  "dirección": "DG9",
+  "unidad": "Sur",
+  "tipo_de_gasto": "Pasajes terrestres rp",
+  "monto": 511744.41015758
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c681a"
+  },
+  "dirección": "DG9",
+  "unidad": "Sur",
+  "tipo_de_gasto": "Viáticos f",
+  "monto": 177825.359757
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c681b"
+  },
+  "dirección": "DG9",
+  "unidad": "Sur",
+  "tipo_de_gasto": "Viáticos rp",
+  "monto": 3990606.72266709
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c681c"
+  },
+  "dirección": "DG9",
+  "unidad": "Sureste",
+  "tipo_de_gasto": "Gasolina f",
+  "monto": 25591.4902954
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c681d"
+  },
+  "dirección": "DG9",
+  "unidad": "Sureste",
+  "tipo_de_gasto": "Gasolina rp",
+  "monto": 876903.8386952
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c681e"
+  },
+  "dirección": "DG9",
+  "unidad": "Sureste",
+  "tipo_de_gasto": "Pasajes aéreos f ",
+  "monto": 80963.970732
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c681f"
+  },
+  "dirección": "DG9",
+  "unidad": "Sureste",
+  "tipo_de_gasto": "Pasajes aéreos rp",
+  "monto": 682994.739763
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6820"
+  },
+  "dirección": "DG9",
+  "unidad": "Sureste",
+  "tipo_de_gasto": "Pasajes terrestres f",
+  "monto": 24047.789978
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6821"
+  },
+  "dirección": "DG9",
+  "unidad": "Sureste",
+  "tipo_de_gasto": "Pasajes terrestres rp",
+  "monto": 194621.49990218
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6822"
+  },
+  "dirección": "DG9",
+  "unidad": "Sureste",
+  "tipo_de_gasto": "Viáticos f",
+  "monto": 222781.60021005
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6823"
+  },
+  "dirección": "DG9",
+  "unidad": "Sureste",
+  "tipo_de_gasto": "Viáticos rp",
+  "monto": 1762910.7694314
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6824"
+  },
+  "dirección": "DG4",
+  "unidad": "Tesorería",
+  "tipo_de_gasto": "Gasolina f",
+  "monto": 11185.1299748
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6825"
+  },
+  "dirección": "DG4",
+  "unidad": "Tesorería",
+  "tipo_de_gasto": "Gasolina rp",
+  "monto": 3862.8400580999996
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6826"
+  },
+  "dirección": "DG4",
+  "unidad": "Tesorería",
+  "tipo_de_gasto": "Pasajes terrestres f",
+  "monto": 12033.5799561
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6827"
+  },
+  "dirección": "DG4",
+  "unidad": "Tesorería",
+  "tipo_de_gasto": "Pasajes terrestres rp",
+  "monto": 9337.3800662
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6828"
+  },
+  "dirección": "DG4",
+  "unidad": "Tesorería",
+  "tipo_de_gasto": "Viáticos f",
+  "monto": 51678.750517399996
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6829"
+  },
+  "dirección": "DG4",
+  "unidad": "Tesorería",
+  "tipo_de_gasto": "Viáticos rp",
+  "monto": 26752.3396914
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c682a"
+  },
+  "dirección": "DG7",
+  "unidad": "Administración",
+  "tipo_de_gasto": "Total",
+  "monto": 3408728.03707904
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c682b"
+  },
+  "dirección": "DG5",
+  "unidad": "Atención corporativa",
+  "tipo_de_gasto": "Total",
+  "monto": 700569.3485928
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c682c"
+  },
+  "dirección": "DG1",
+  "unidad": "Auditoría",
+  "tipo_de_gasto": "Total",
+  "monto": 29204.090423100002
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c682d"
+  },
+  "dirección": "DG8",
+  "unidad": "Auditoría interna",
+  "tipo_de_gasto": "Total",
+  "monto": 464090.04865564
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c682e"
+  },
+  "dirección": "DG1",
+  "unidad": "Control",
+  "tipo_de_gasto": "Total",
+  "monto": 108607.45020669
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c682f"
+  },
+  "dirección": "DG3",
+  "unidad": "Crédito",
+  "tipo_de_gasto": "Total",
+  "monto": 354143.32861749
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6830"
+  },
+  "dirección": "DG8",
+  "unidad": "Desarrollo y gestión",
+  "tipo_de_gasto": "Total",
+  "monto": 34829.57012249
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6831"
+  },
+  "dirección": "DG7",
+  "unidad": "Dirección administración",
+  "tipo_de_gasto": "Total",
+  "monto": 16171.84998326
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6832"
+  },
+  "dirección": "DG3",
+  "unidad": "Dirección de crédito",
+  "tipo_de_gasto": "Total",
+  "monto": 107850.19071905
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6833"
+  },
+  "dirección": "DG4",
+  "unidad": "Dirección de finanzas",
+  "tipo_de_gasto": "Total",
+  "monto": 43503.5696094
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6834"
+  },
+  "dirección": "DG2",
+  "unidad": "Dirección de inteligencia",
+  "tipo_de_gasto": "Total",
+  "monto": 31190.4700025
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6835"
+  },
+  "dirección": "DG5",
+  "unidad": "Dirección de negocios",
+  "tipo_de_gasto": "Total",
+  "monto": 278358.40932598
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6836"
+  },
+  "dirección": "DG6",
+  "unidad": "Dirección de operaciones",
+  "tipo_de_gasto": "Total",
+  "monto": 6024.9999391
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6837"
+  },
+  "dirección": "DG9",
+  "unidad": "Dirección de regionales",
+  "tipo_de_gasto": "Total",
+  "monto": 400234.39970229997
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6838"
+  },
+  "dirección": "DG8",
+  "unidad": "Dirección de órgano interno",
+  "tipo_de_gasto": "Total",
+  "monto": 105286.02047567
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6839"
+  },
+  "dirección": "DG1",
+  "unidad": "Dirección general",
+  "tipo_de_gasto": "Total",
+  "monto": 369240.6400738
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c683a"
+  },
+  "dirección": "DG1",
+  "unidad": "Estrategia",
+  "tipo_de_gasto": "Total",
+  "monto": 1464603.46125517
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c683b"
+  },
+  "dirección": "DG2",
+  "unidad": "Evaluación sectorial",
+  "tipo_de_gasto": "Total",
+  "monto": 105437.72015448
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c683c"
+  },
+  "dirección": "DG3",
+  "unidad": "Intemediarios financieros",
+  "tipo_de_gasto": "Total",
+  "monto": 125719.96976223
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c683d"
+  },
+  "dirección": "DG2",
+  "unidad": "Medio ambiente",
+  "tipo_de_gasto": "Total",
+  "monto": 269902.90962252
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c683e"
+  },
+  "dirección": "DG3",
+  "unidad": "Monitoreo",
+  "tipo_de_gasto": "Total",
+  "monto": 1959930.96759651
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c683f"
+  },
+  "dirección": "DG9",
+  "unidad": "Noroeste",
+  "tipo_de_gasto": "Total",
+  "monto": 3178354.13738003
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6840"
+  },
+  "dirección": "DG9",
+  "unidad": "Norte",
+  "tipo_de_gasto": "Total",
+  "monto": 4748919.68155468
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6841"
+  },
+  "dirección": "DG9",
+  "unidad": "Occidente",
+  "tipo_de_gasto": "Total",
+  "monto": 6129059.35291894
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6842"
+  },
+  "dirección": "DG6",
+  "unidad": "Operaciones",
+  "tipo_de_gasto": "Total",
+  "monto": 7289.4498901
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6843"
+  },
+  "dirección": "DG4",
+  "unidad": "Planeación corporativa",
+  "tipo_de_gasto": "Total",
+  "monto": 177014.88063063
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6844"
+  },
+  "dirección": "DG5",
+  "unidad": "Productos y servicios",
+  "tipo_de_gasto": "Total",
+  "monto": 353646.04003781
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6845"
+  },
+  "dirección": "DG5",
+  "unidad": "Programas y proyectos",
+  "tipo_de_gasto": "Total",
+  "monto": 648913.70972215
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6846"
+  },
+  "dirección": "DG8",
+  "unidad": "Quejas",
+  "tipo_de_gasto": "Total",
+  "monto": 19700.38990404
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6847"
+  },
+  "dirección": "DG7",
+  "unidad": "Recuperación",
+  "tipo_de_gasto": "Total",
+  "monto": 183643.85990059
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6848"
+  },
+  "dirección": "DG8",
+  "unidad": "Responsabilidades",
+  "tipo_de_gasto": "Total",
+  "monto": 104835.13953786
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c6849"
+  },
+  "dirección": "DG1",
+  "unidad": "Riesgos",
+  "tipo_de_gasto": "Total",
+  "monto": 53434.49005252
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c684a"
+  },
+  "dirección": "DG6",
+  "unidad": "Sistemas",
+  "tipo_de_gasto": "Total",
+  "monto": 444040.70095695
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c684b"
+  },
+  "dirección": "DG9",
+  "unidad": "Sur",
+  "tipo_de_gasto": "Total",
+  "monto": 6892766.58180894
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c684c"
+  },
+  "dirección": "DG9",
+  "unidad": "Sureste",
+  "tipo_de_gasto": "Total",
+  "monto": 3870815.69900723
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c684d"
+  },
+  "dirección": "DG4",
+  "unidad": "Tesorería",
+  "tipo_de_gasto": "Total",
+  "monto": 114850.020264
+},
+{
+  "_id": {
+    "$oid": "65af1c35eec79cfa3b9c684e"
+  },
+  "dirección": "Total",
+  "unidad": "Total",
+  "tipo_de_gasto": "Total",
+  "monto": 37310911.5854857
+}]
