@@ -9,31 +9,61 @@
           crossorigin="" />
 
     <!-- Our CSS -->
-    <link rel="stylesheet" type="text/css" href="static/css/style.css">
+    <link rel="stylesheet" type="text/css" href="static/css/style2.css">
+
+    <!-- Google Fonts -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Copperplate&display=swap">
+
+
 
 </head>
 <body>
+
+    <!-- Header Ribbon -->
+    <div class="ribbon">
+
+        <p>Este es un proyecto para el bootcamp de Data Analytics</p>
+    </div>
+
     <header>
-      <h1 class="header-title">Análisis de viajes 2023</h1>
+        <img src="https://claritybusinesstravel.com/wp-content/uploads/2022/03/hero_banner3.png" alt="Travel Icon" class="travel-icon">
+        <h1 class="header-title">Análisis de viajes 2023</h1>
     </header>
 
+<div class="ribbon">
+
+
+
     <div class="container">
+        <div class="title-container">
+            <h2>Gastos graficados por unidad</h2>
+        </div>
         <select id="selDataset" onchange="optionChanged(this.value)"></select>
 
         <div class="div-1">
             <div id="chart" ></div>
             <div id="plot" ></div>
-            <div id="map" ></div>
-            
+                    
+        </div>
         </div>
 
         <div class="div-2">
+            <h2>Mapa de viajes y viajes realizados por destino</h2>
+            <div id="map"></div>
+        </div>
             <div id="map" ></div>
-            <div id="time_plot"></div>
         </div>
 
+        <div>
+            <canvas id="timeChart" width="500" height="100"></canvas>
+          </div>
+
         <div class="div-3">
+            <h2>Gastos totales por concepto y por dirección</h2>
+            <div id="bigplot"></div>
+        </div>
           <div id="bigplot" ></div>
+      </div>
       </div>
 
     </div>
@@ -52,7 +82,7 @@
     <script src="https://d3js.org/d3.v7.min.js"></script>
     <script type="text/javascript" src="static/js/logic.js"></script>
     <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
-
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 
 </body>
 </html>
