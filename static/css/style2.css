@@ -1,0 +1,124 @@
+body {
+    background-color: #F0F8FF; 
+    font-family: 'Helvetica', sans-serif; 
+    text-align: center;
+}
+
+.bigger-heading {
+    font-size: 3em;
+}
+
+.ribbon {
+    background-color: #72A0C1;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 1.2em;
+}
+.custom-dropdown {
+    font-size: 16px;
+    height: 40px; /
+    padding: 8px; /
+    margin-bottom: 20px;
+  }
+
+.travel-icon {
+    width: 300px;
+    height: 200px;
+    margin-right: 10px;
+    float: left; 
+}
+
+.header-title {
+    font-family: 'Helvetica', sans-serif;
+    font-size: 5em;
+    text-align: center;
+    margin-top: 30;
+    margin-bottom: 30;
+    color: #0b1f45; 
+
+}
+.div-1 {
+    display: flex;
+    gap: 40px; 
+    flex-wrap: wrap;
+    margin-left: 100px;
+    align-items: center;
+
+}
+
+
+
+  
+  .div-2 {
+    
+    #map { 
+        width: 70%;
+        height: 500px;
+        border: 25px solid #ccc; 
+        border-radius: 50px;
+        overflow: hidden;
+        margin-top: 20px }
+    
+  }
+ 
+    
+
+ 
+ 
+
+
+.div-3 {
+    width: 100%;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+}
+
+
+.panel-body {
+    flex: 1;
+    margin: 20px 0;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+ }
+ 
+ 
+
+
+
+#bigplot {
+    width: 100%;
+    margin: 20px 0;
+    padding: 20px;
+    background-color: #f0e4b8;
+}
+
+#chart {
+    font-family: 'Helvetica', sans-serif
+}
+
+#timeChart {
+    border: 5px solid #ccc; 
+    border-radius: 50px;
+    overflow: hidden;
+}
+
+
+@media screen and (max-width: 768px) {
+    #map,
+    #time_plot {
+        flex-basis: 100%;
+    }
+    .div-1,
+    .div-2,
+    .div-3 {
+        flex-direction: column;
+    }
+ }
+
+ 
+
